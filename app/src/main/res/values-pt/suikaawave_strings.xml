@@ -17,7 +17,7 @@
     <string name="cached_playlist">Em cache</string>
     <string name="sync_playlist">Sincronizar lista de reprodução</string>
     <string name="sync_disabled">Sincronização desativada</string>
-    <string name="allows_for_sync_witch_youtube">OBSERVAÇÃO: Isto permite a sincronização com o YouTube Music. Isto NÃO pode ser alterado mais tarde.</string>
+    <string name="allows_for_sync_witch_youtube">OBSERVAÇÃO: Isto permite a sincronização com o Suika Wave. Isto NÃO pode ser alterado mais tarde.</string>
     <string name="generating_image">A gerar imagem…</string>
     <string name="please_wait">Por favor, aguarde</string>
     <string name="cancel">Cancelar</string>
@@ -130,7 +130,7 @@
     <string name="download_in_progress_desc">Download em progresso</string>
     <string name="share_playlist_desc">Partilhar esta lista de reprodução com os outros</string>
     <string name="delete_playlist_desc">Remover esta lista de reprodução permanentemente</string>
-    <string name="sync_playlist_desc">Sincronize esta lista de reprodução com o YouTube Music.</string>
+    <string name="sync_playlist_desc">Sincronize esta lista de reprodução com o Suika Wave.</string>
     <string name="starting_radio">A ligar o rádio…</string>
     <string name="primary_color_style">Cor primária</string>
     <string name="swipe_song_to_remove">Deslize para remover a música da lista de reprodução</string>
@@ -140,7 +140,7 @@
     <string name="auto_scroll">Re-sincronizar</string>
     <string name="show_uploaded_playlist">Mostrar lista de reprodução Carregada</string>
     <string name="edit_playlist_cover">Editar capa da lista de reprodução</string>
-    <string name="edit_playlist_cover_note">Nota: A tua conta tem de estar ligada a um número de telefone e verificada no YouTube Music para mudar a capa desta lista de reprodução.</string>
+    <string name="edit_playlist_cover_note">Nota: A tua conta tem de estar ligada a um número de telefone e verificada no Suika Wave para mudar a capa desta lista de reprodução.</string>
     <string name="edit_playlist_cover_note_wait">Depois de selecionar a imagem, por favor espera um momento para a nova capa aparecer na tua lista de reprodução.</string>
     <string name="choose_from_library">Escolher da biblioteca</string>
     <string name="remove_custom_image">Remover imagem personalizada</string>
@@ -229,7 +229,7 @@
     <string name="add_to_library_desc">Guardar na sua biblioteca</string>
     <string name="download_desc">Disponibilizar para reprodução \"offline\"</string>
     <string name="add_to_playlist_desc">Adicionar a uma das suas listas de reprodução</string>
-    <string name="refetch_desc">Obter os metadados mais recentes do YouTube Music</string>
+    <string name="refetch_desc">Obter os metadados mais recentes do Suika Wave</string>
     <string name="share_desc">Partilhar um \"link\" para este item</string>
     <string name="delete_desc">Remover este item permanentemente</string>
     <string name="advanced_desc">Alterar o tempo e o tom da música</string>
@@ -415,7 +415,7 @@
     <string name="enable_paxsenix">Abilitar o serviço Paxsenix</string>
     <string name="enable_paxsenix_desc">Letras síncronas de alta qualidade fornecidas pela API da Paxsenix</string>
     <string name="lyrics_provider_priority_desc">Arraste para re-ordenar os provedores por preferência. Quanto maior for a posição, maior será a prioridade.</string>
-    <string name="github_releases_url">(Note for the development team: Creation of a Portuguese subrepository for releases may be nessasary. FOR NOW we will be using the official pages)\n(Para quem é português e não consegue fazer a tradução pedimos imensa desculpa, mas o problema irá ser resolvido, e estaremos com uma solução o mais rápido possível!)\nhttps://github.com/MetrolistGroup/Metrolist/releases</string>
+    <string name="github_releases_url">(Note for the development team: Creation of a Portuguese subrepository for releases may be nessasary. FOR NOW we will be using the official pages)\n(Para quem é português e não consegue fazer a tradução pedimos imensa desculpa, mas o problema irá ser resolvido, e estaremos com uma solução o mais rápido possível!)\nhttps://github.com/SuikaRyp/SuikaaWave/releases</string>
     <string name="alarm_battery_optimization_desc">Desabilite optimizações de bateria para um melhor comportamento do alarme em segundo plano</string>
     <string name="resume_on_bluetooth_connect">Resumir musica quando um dispositivo bluetooth for conectado.</string>
     <string name="crossfade_gapless">Desabilitar para álbuns sem espaço de intervalo entre musicas</string>

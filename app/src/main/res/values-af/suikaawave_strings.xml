@@ -23,7 +23,7 @@
     <string name="filter_uploaded">Opgelaai</string>
     <string name="sync_playlist">Sync snitlys</string>
     <string name="sync_disabled">Sinkronisering af</string>
-    <string name="allows_for_sync_witch_youtube">LET WEL: Hierdie opsie aktiveer sinkronisering met YouTube Music en KAN NIE later verander word nie</string>
+    <string name="allows_for_sync_witch_youtube">LET WEL: Hierdie opsie aktiveer sinkronisering met Suika Wave en KAN NIE later verander word nie</string>
     <string name="and">en</string>
     <string name="generating_image">Skep tans beeld…</string>
     <string name="please_wait">Wag asseblief</string>
@@ -51,7 +51,7 @@
     <string name="download_in_progress_desc">\'n Aflaai is tans aan die gang</string>
     <string name="share_playlist_desc">Deel hierdie snitlys met ander</string>
     <string name="delete_playlist_desc">Verwyder hierdie snitlys permanent</string>
-    <string name="sync_playlist_desc">Sinkroniseer hierdie snitlys met YouTube Music</string>
+    <string name="sync_playlist_desc">Sinkroniseer hierdie snitlys met Suika Wave</string>
     <string name="copy_link">Kopieer skakel</string>
     <string name="select">Kies alles</string>
     <string name="like_all">Hou van alles</string>
@@ -117,7 +117,7 @@
     <string name="lyrics_line_spacing">Lirieke-reëlspasiëring</string>
     <string name="enable_lrclib_desc">Gemeenskapsgedrewe gesinkroniseerde liriekedatabasis</string>
     <string name="enable_kugou_desc">Trek lirieke van KuGou, \'n gewilde Chinese musiekplatform</string>
-    <string name="youtube_music_lyrics_note">LET WEL: YouTube Music-lirieke sal outomaties vertoon word wanneer geen ander bron beskikbaar is nie. Hulle is gewoonlik nie gesinkroniseer nie</string>
+    <string name="youtube_music_lyrics_note">LET WEL: Suika Wave-lirieke sal outomaties vertoon word wanneer geen ander bron beskikbaar is nie. Hulle is gewoonlik nie gesinkroniseer nie</string>
     <string name="enable_better_lyrics">Aktiveer Better Lyrics</string>
     <string name="enable_better_lyrics_desc">Lettergreep-gesinkroniseerde lirieke vir enige liedjie, perfek vir karaoke</string>
     <string name="enable_paxsenix">Aktiveer Paxsenix</string>
@@ -156,7 +156,7 @@
     <string name="sort_ascending">Sorteer oplopend</string>
     <string name="sort_descending">Sorteer aflopend</string>
     <string name="edit_playlist_cover">Wysig snitlys-omslag</string>
-    <string name="edit_playlist_cover_note">LET WEL: Jou rekening moet aan \'n foonnommer gekoppel en op YouTube Music geverifieer wees om die snitlys-omslag te verander</string>
+    <string name="edit_playlist_cover_note">LET WEL: Jou rekening moet aan \'n foonnommer gekoppel en op Suika Wave geverifieer wees om die snitlys-omslag te verander</string>
     <string name="edit_playlist_cover_note_wait">Nadat jy \'n beeld gekies het, wag asseblief \'n oomblik vir die nuwe omslag om in jou snitlys te verskyn</string>
     <string name="choose_from_library">Kies uit biblioteek</string>
     <string name="remove_custom_image">Verwyder pasgemaakte beeld</string>
@@ -210,7 +210,7 @@
     <string name="release_notes">Vrystellingsnotas</string>
     <string name="changelog">Veranderingslog</string>
     <string name="changelog_empty">Geen veranderingslogboeke beskikbaar nie</string>
-    <string name="github_releases_url">https://github.com/MetrolistGroup/Metrolist/releases</string>
+    <string name="github_releases_url">https://github.com/SuikaRyp/SuikaaWave/releases</string>
     <string name="list_bullet">•</string>
     <string name="view_on_github">Bekyk op GitHub</string>
     <string name="current_version">Huidige weergawe</string>
@@ -407,7 +407,7 @@
     <string name="add_to_library_desc">Stoor na jou biblioteek</string>
     <string name="download_desc">Laai af vir vanlyn afspeel</string>
     <string name="add_to_playlist_desc">Voeg by \'n snitlys</string>
-    <string name="refetch_desc">Verfris metadata van YouTube Music</string>
+    <string name="refetch_desc">Verfris metadata van Suika Wave</string>
     <string name="share_desc">Deel \'n skakel na hierdie item</string>
     <string name="delete_desc">Verwyder hierdie item permanent</string>
     <string name="advanced_desc">Verstel die liedjie se tempo en toonhoogte</string>
@@ -613,7 +613,7 @@
     <string name="credits_license_desc">Gratis, oopbron-sagteware. Jy mag dit gebruik, bestudeer, deel en verbeter</string>
     <string name="credits_discord">Discord-bediener</string>
     <string name="credits_telegram">Telegram-kanaal</string>
-    <string name="credits_view_repo">Bekyk bewaarplek</string>
+    <string name="credits_view_repo">Account Github Dev</string>
     <string name="buy_mo_a_coffee">Koop vir my \'n koffie!</string>
     <string name="community_and_info">Gemeenskap &amp; Inligting</string>
     <string name="suikaawave">SUIKAAWAVE</string>
@@ -754,7 +754,7 @@
     <string name="android_auto_visible_sections">Sigbare afdelings</string>
     <string name="android_auto_reorder_hint">Tik op \'n afdeling om dit te aktiveer of te deaktiveer.\nDruk lank op die sleephandvatsel om te herrangskik. Die eerste afdeling sal by verstek gewys word</string>
     <string name="android_auto_youtube_playlists">Wys YouTube se voorgestelde snitlyste</string>
-    <string name="android_auto_youtube_playlists_desc">Wys YouTube Music se aanbevole snitlyste in die snitlyste-afdeling terwyl jy met Android Auto blaai</string>
+    <string name="android_auto_youtube_playlists_desc">Wys Suika Wave se aanbevole snitlyste in die snitlyste-afdeling terwyl jy met Android Auto blaai</string>
     <string name="android_auto_target_playlist">Vinnige-byvoeg-bestemming</string>
     <string name="android_auto_target_playlist_auto">Nie gestel nie</string>
     <string name="android_auto_target_playlist_not_set">Geen snitlys gekies nie. Kies een in Android Auto-instellings</string>

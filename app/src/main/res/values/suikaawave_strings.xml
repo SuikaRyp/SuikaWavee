@@ -26,7 +26,7 @@
     <string name="filter_uploaded">Uploaded</string>
     <string name="sync_playlist">Sync playlist</string>
     <string name="sync_disabled">Sync disabled</string>
-    <string name="allows_for_sync_witch_youtube">NOTE: This option enables syncing with YouTube Music and CANNOT be changed later</string>
+    <string name="allows_for_sync_witch_youtube">NOTE: This option enables syncing with Suika Wave and CANNOT be changed later</string>
 
     <string name="and">and</string>
     <string name="generating_image">Generating image…</string>
@@ -60,7 +60,7 @@
     <string name="download_in_progress_desc">A download is in progress</string>
     <string name="share_playlist_desc">Share this playlist with others</string>
     <string name="delete_playlist_desc">Remove this playlist permanently</string>
-    <string name="sync_playlist_desc">Sync this playlist with YouTube Music</string>
+    <string name="sync_playlist_desc">Sync this playlist with Suika Wave</string>
     <string name="copy_link">Copy link</string>
     <string name="select">Select all</string>
     <string name="like_all">Like all</string>
@@ -132,7 +132,7 @@
     <string name="lyrics_line_spacing">Lyrics line spacing</string>
     <string name="enable_lrclib_desc">Community-driven synchronized lyrics database</string>
     <string name="enable_kugou_desc">Pulls lyrics from KuGou, a popular Chinese music platform</string>
-    <string name="youtube_music_lyrics_note">NOTE: YouTube Music lyrics will be shown automatically when no other source is available. They are usually not synchronized</string>
+    <string name="youtube_music_lyrics_note">NOTE: Suika Wave lyrics will be shown automatically when no other source is available. They are usually not synchronized</string>
     <string name="enable_zemer">Enable Zemer</string>
     <string name="enable_zemer_desc">Lyrics for Jewish music</string>
     <string name="enable_better_lyrics">Enable Better Lyrics</string>
@@ -182,7 +182,7 @@
 
     <!-- Playlist cover edit -->
     <string name="edit_playlist_cover">Edit playlist cover</string>
-    <string name="edit_playlist_cover_note">NOTE: Your account must be linked to a phone number and verified on YouTube Music to change the playlist cover</string>
+    <string name="edit_playlist_cover_note">NOTE: Your account must be linked to a phone number and verified on Suika Wave to change the playlist cover</string>
     <string name="edit_playlist_cover_note_wait">After selecting an image, please wait a moment for the new cover to appear in your playlist</string>
     <string name="choose_from_library">Choose from library</string>
     <string name="remove_custom_image">Remove custom image</string>
@@ -249,7 +249,7 @@
     <string name="release_notes">Release notes</string>
     <string name="changelog">Changelog</string>
     <string name="changelog_empty">No changelogs available</string>
-    <string name="github_releases_url">https://github.com/MetrolistGroup/Metrolist/releases</string>
+    <string name="github_releases_url">https://github.com/SuikaRyp/SuikaaWave/releases</string>
     <string name="list_bullet">•</string>
     <string name="view_on_github">View on GitHub</string>
     <string name="current_version">Current version</string>
@@ -430,7 +430,7 @@
     <string name="add_to_library_desc">Save to your library</string>
     <string name="download_desc">Download for offline playback</string>
     <string name="add_to_playlist_desc">Add to a playlist</string>
-    <string name="refetch_desc">Refresh metadata from YouTube Music</string>
+    <string name="refetch_desc">Refresh metadata from Suika Wave</string>
     <string name="share_desc">Share a link to this item</string>
     <string name="delete_desc">Permanently remove this item</string>
     <string name="advanced_desc">Adjust the song\'s tempo and pitch</string>
@@ -854,7 +854,7 @@
     <string name="credits_license_desc">Free, open-source software. You may use, study, share, and improve it</string>
     <string name="credits_discord">Discord server</string>
     <string name="credits_telegram">Telegram channel</string>
-    <string name="credits_view_repo">View repository</string>
+    <string name="credits_view_repo">Account Github Dev</string>
     <string name="buy_mo_a_coffee">Buy me a coffee!</string>
     <string name="community_and_info">Community &amp; Info</string>
     <string name="suikaawave">SUIKAAWAVE</string>
@@ -923,7 +923,7 @@
     <string name="android_auto_visible_sections">Visible sections</string>
     <string name="android_auto_reorder_hint">Tap a section to enable or disable it.\nLong-press the drag handle to reorder. The first section will be shown by default</string>
     <string name="android_auto_youtube_playlists">Show YouTube suggested playlists</string>
-    <string name="android_auto_youtube_playlists_desc">Show YouTube Music recommended playlists in the playlists section while browsing with Android Auto</string>
+    <string name="android_auto_youtube_playlists_desc">Show Suika Wave recommended playlists in the playlists section while browsing with Android Auto</string>
     <string name="android_auto_target_playlist">Quick-add destination</string>
     <string name="android_auto_target_playlist_auto">Not set</string>
     <string name="android_auto_target_playlist_not_set">No playlist selected. Choose one in Android Auto settings</string>
@@ -965,7 +965,7 @@
     <string name="choose_youtube_channel_description">This Google account has multiple channels. Pick the one you want to use.</string>
     <string name="switch_youtube_channel">Switch YouTube channel</string>
     <string name="youtube_channels_failed">Couldn\'t retrieve the YouTube channels for this account. Please try again.</string>
-    <string name="authentication_data_extraction_failed">Couldn\'t read the YouTube Music session. Please try again.</string>
+    <string name="authentication_data_extraction_failed">Couldn\'t read the Suika Wave session. Please try again.</string>
     <string name="login_failed_with_error">Login failed: %1$s</string>
     <string name="stream_client">Stream client</string>
     <string name="format_player_hash">Player hash</string>

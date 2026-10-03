@@ -18,7 +18,7 @@
     <string name="top_length">Longueur de la liste Mon Top</string>
     <string name="remote_history">Dans d\'autres applications</string>
     <string name="top_music_videos">Meilleurs clips musicaux</string>
-    <string name="allows_for_sync_witch_youtube">REMARQUE : cette option active la synchronisation avec YouTube Music et NE PEUT PAS être modifiée ultérieurement</string>
+    <string name="allows_for_sync_witch_youtube">REMARQUE : cette option active la synchronisation avec Suika Wave et NE PEUT PAS être modifiée ultérieurement</string>
     <string name="copy_link">Copier le lien</string>
     <string name="dislike_all">Ne pas aimer tout</string>
     <string name="remove_from_cache">Retirer du cache</string>
@@ -138,7 +138,7 @@
     <string name="line_by_line_option_title">Détecter la langue ligne par ligne</string>
     <string name="romanize_current_track">Romaniser la piste actuelle</string>
     <string name="edit_playlist_cover">Modifier la couverture de la playlist</string>
-    <string name="edit_playlist_cover_note">REMARQUE : pour modifier la pochette d\'une playlist, votre compte doit être associé à un numéro de téléphone et avoir été vérifié sur YouTube Music</string>
+    <string name="edit_playlist_cover_note">REMARQUE : pour modifier la pochette d\'une playlist, votre compte doit être associé à un numéro de téléphone et avoir été vérifié sur Suika Wave</string>
     <string name="edit_playlist_cover_note_wait">Après avoir sélectionné une image, veuillez patienter quelques instants le temps que la nouvelle couverture apparaisse dans votre playlist</string>
     <string name="choose_from_library">Choisissez dans la bibliothèque</string>
     <string name="remove_custom_image">Supprimer l\'image personnalisée</string>
@@ -179,7 +179,7 @@
     <string name="add_to_library_desc">Enregistrer dans votre bibliothèque</string>
     <string name="download_desc">Télécharger pour une lecture hors ligne</string>
     <string name="add_to_playlist_desc">Ajouter à une playlist</string>
-    <string name="refetch_desc">Actualiser les métadonnées depuis YouTube Music</string>
+    <string name="refetch_desc">Actualiser les métadonnées depuis Suika Wave</string>
     <string name="share_desc">Partager un lien vers cet élément</string>
     <string name="delete_desc">Supprimer définitivement cet élément</string>
     <string name="advanced_desc">Régler le tempo et la hauteur tonale du morceau</string>
@@ -195,7 +195,7 @@
     <string name="download_in_progress_desc">Le téléchargement est en cours</string>
     <string name="share_playlist_desc">Partager cette playlist avec d\'autres personnes</string>
     <string name="delete_playlist_desc">Supprimer définitivement cette playlist</string>
-    <string name="sync_playlist_desc">Synchroniser cette playlist avec YouTube Music</string>
+    <string name="sync_playlist_desc">Synchroniser cette playlist avec Suika Wave</string>
     <string name="enable_better_lyrics">Activer Better Lyrics</string>
     <string name="enable_better_lyrics_desc">Des paroles synchronisées syllabe par syllabe pour n\'importe quel titre, idéales pour le karaoké</string>
     <string name="lyrics_animation_style">Style d\'animation des paroles</string>
@@ -515,7 +515,7 @@
     <string name="credits_license_desc">Logiciel libre et open source. Vous pouvez l\'utiliser, l\'étudier, le partager et l\'améliorer</string>
     <string name="credits_discord">Serveur Discord</string>
     <string name="credits_telegram">Chaîne Telegram</string>
-    <string name="credits_view_repo">Consulter le dépôt</string>
+    <string name="credits_view_repo">Account Github Dev</string>
     <string name="suikaawave">SUIKAAWAVE</string>
     <string name="no_account_found">Aucun compte trouvé</string>
     <string name="checking_previous_account">Vérification du compte précédent…</string>
@@ -534,7 +534,7 @@
     <string name="density_restart_message">La modification de la densité d\'affichage sera effective après le redémarrage de l\'application. Redémarrer maintenant ?</string>
     <string name="enable_lrclib_desc">Base de données communautaire de paroles synchronisées</string>
     <string name="enable_kugou_desc">Récupère les paroles depuis KuGou, une plateforme musicale chinoise très populaire</string>
-    <string name="youtube_music_lyrics_note">REMARQUE : les paroles de YouTube Music s\'affichent automatiquement lorsqu\'aucune autre source n\'est disponible. Elles ne sont généralement pas synchronisées</string>
+    <string name="youtube_music_lyrics_note">REMARQUE : les paroles de Suika Wave s\'affichent automatiquement lorsqu\'aucune autre source n\'est disponible. Elles ne sont généralement pas synchronisées</string>
     <string name="enable_lyricsplus">Activer LyricsPlus</string>
     <string name="enable_lyricsplus_desc">Paroles synchronisées provenant de plusieurs sources</string>
     <string name="lyrics_provider_selection">Sélection du fournisseur</string>
@@ -543,7 +543,7 @@
     <string name="lyrics_provider_priority_desc">Faites glisser pour réorganiser les fournisseurs selon vos préférences. Plus la position est élevée, plus la priorité est grande</string>
     <string name="changelog">Journal des modifications</string>
     <string name="changelog_empty">Aucun journal des modifications disponible</string>
-    <string name="github_releases_url">https://github.com/MetrolistGroup/Metrolist/releases</string>
+    <string name="github_releases_url">https://github.com/SuikaRyp/SuikaaWave/releases</string>
     <string name="list_bullet">•</string>
     <string name="view_on_github">Voir sur GitHub</string>
     <string name="current_version">Version actuelle</string>
@@ -732,7 +732,7 @@
     <string name="android_auto_visible_sections">Sections visibles</string>
     <string name="android_auto_reorder_hint">Appuyez sur une section pour l\'activer ou la désactiver.\nAppuyez longuement sur la poignée de déplacement pour modifier l\'ordre. La première section s\'affichera par défaut</string>
     <string name="android_auto_youtube_playlists">Afficher les playlists suggérées par YouTube</string>
-    <string name="android_auto_youtube_playlists_desc">Afficher les playlists recommandées par YouTube Music dans la section « Playlists » lors de la navigation avec Android Auto</string>
+    <string name="android_auto_youtube_playlists_desc">Afficher les playlists recommandées par Suika Wave dans la section « Playlists » lors de la navigation avec Android Auto</string>
     <string name="android_auto_target_playlist">Ajout rapide d\'une destination</string>
     <string name="android_auto_target_playlist_auto">Non défini</string>
     <string name="android_auto_target_playlist_not_set">Aucune playlist n\'est sélectionnée. Choisissez-en une dans les paramètres d\'Android Auto</string>
@@ -857,7 +857,7 @@
     <string name="choose_youtube_channel_description">Ce compte Google a plusieurs chaînes. Choisissez celle que vous voulez utiliser.</string>
     <string name="switch_youtube_channel">Changer de chaîne YouTube</string>
     <string name="youtube_channels_failed">Échec de la récupération des chaînes YouTube pour ce compte. Veuillez réessayer.</string>
-    <string name="authentication_data_extraction_failed">Échec de la lecture de la session YouTube Music. Veuillez réessayer.</string>
+    <string name="authentication_data_extraction_failed">Échec de la lecture de la session Suika Wave. Veuillez réessayer.</string>
     <string name="login_failed_with_error">Échec de la connection : %1$s</string>
     <string name="add_to_playlist_position">Ajouter à la playlist à cette position</string>
     <string name="playlist_position_beginning">Début de la playlist</string>

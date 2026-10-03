@@ -17,7 +17,7 @@
     <string name="cached_playlist">Αποθηκευμένα στην προσωρινή μνήμη</string>
     <string name="sync_playlist">Συγχρονισμός λίστας αναπαραγωγής</string>
     <string name="sync_disabled">Συγχρονισμός ανενεργός</string>
-    <string name="allows_for_sync_witch_youtube">ΣΗΜΕΙΩΣΗ: Αυτή η επιλογή επιτρέπει τον συγχρονισμό με το YouTube Music και ΔΕΝ μπορεί να αλλάξει αργότερα</string>
+    <string name="allows_for_sync_witch_youtube">ΣΗΜΕΙΩΣΗ: Αυτή η επιλογή επιτρέπει τον συγχρονισμό με το Suika Wave και ΔΕΝ μπορεί να αλλάξει αργότερα</string>
     <string name="remove_from_cache">Αφαίρεση από την προσωρινή μνήμη</string>
     <string name="copy_link">Αντιγραφή συνδέσμου</string>
     <string name="select">Επιλογή όλων</string>
@@ -125,7 +125,7 @@
     <string name="swipe_song_to_remove">Σύρετε το τραγούδι για να το αφαιρέσετε από τη λίστα αναπαραγωγής</string>
     <string name="show_uploaded_playlist">Εμφάνιση \"ανεβασμένης\" λίστας αναπαραγωγής</string>
     <string name="edit_playlist_cover">Επεξεργασία εξώφυλλου λίστας αναπαραγωγής</string>
-    <string name="edit_playlist_cover_note">Σημείωση: Ο λογαριασμός σας πρέπει να συνδέεται με έναν αριθμό τηλεφώνου και να επαληθευτεί στο YouTube Music για να αλλάξει το εξώφυλλο της λίστας αναπαραγωγής.</string>
+    <string name="edit_playlist_cover_note">Σημείωση: Ο λογαριασμός σας πρέπει να συνδέεται με έναν αριθμό τηλεφώνου και να επαληθευτεί στο Suika Wave για να αλλάξει το εξώφυλλο της λίστας αναπαραγωγής.</string>
     <string name="edit_playlist_cover_note_wait">Αφού επιλέξετε μια εικόνα, περιμένετε λίγο μέχρι να εμφανιστεί το νέο εξώφυλλο στη λίστα αναπαραγωγής σας.</string>
     <string name="choose_from_library">Επιλέξτε από τη βιβλιοθήκη</string>
     <string name="remove_custom_image">Κατάργηση προσαρμοσμένης εικόνας</string>
@@ -175,7 +175,7 @@
     <string name="download_in_progress_desc">Μια λήψη βρίσκεται σε εξέλιξη</string>
     <string name="share_playlist_desc">Κοινοποίηση αυτής της λίστας αναπαραγωγής με άλλους</string>
     <string name="delete_playlist_desc">Διαγραφή αυτής της λίστας αναπαραγωγής οριστικά</string>
-    <string name="sync_playlist_desc">Συγχρονισμός αυτής της λίστας με το YouTube Music</string>
+    <string name="sync_playlist_desc">Συγχρονισμός αυτής της λίστας με το Suika Wave</string>
     <string name="crop_album_art">Περικοπή εξώφυλλου άλμπουμ</string>
     <string name="crop_album_art_desc">Επιβολή τετράγωνης αναλογίας διαστάσεων με περικοπή των μικρογραφιών βίντεο</string>
     <string name="primary_color_style">Κύριο χρώμα</string>
@@ -208,7 +208,7 @@
     <string name="add_to_library_desc">Αποθήκευση στη βιβλιοθήκη σας</string>
     <string name="download_desc">Να γίνει διαθέσιμο για αναπαραγωγή εκτός σύνδεσης</string>
     <string name="add_to_playlist_desc">Προσθήκη σε μια από τις λίστες αναπαραγωγής σας</string>
-    <string name="refetch_desc">Λήψη των πιο πρόσφατων μεταδεδομένων από το YouTube Music</string>
+    <string name="refetch_desc">Λήψη των πιο πρόσφατων μεταδεδομένων από το Suika Wave</string>
     <string name="share_desc">Μοιραστείτε έναν σύνδεσμο για αυτό το στοιχείο</string>
     <string name="delete_desc">Μόνιμη διαγραφή αυτού του στοιχείου</string>
     <string name="advanced_desc">Αλλαγή του τέμπο και του τόνου του τραγουδιού</string>

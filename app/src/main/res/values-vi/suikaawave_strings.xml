@@ -10,7 +10,7 @@
     <string name="offline">Đã tải xuống</string>
     <string name="my_top">Nghe nhiều nhất</string>
     <string name="sync_playlist">Đồng bộ danh sách phát</string>
-    <string name="allows_for_sync_witch_youtube">LƯU Ý: Tùy chọn này cho phép đồng bộ hóa với YouTube Music và KHÔNG THỂ thay đổi sau này</string>
+    <string name="allows_for_sync_witch_youtube">LƯU Ý: Tùy chọn này cho phép đồng bộ hóa với Suika Wave và KHÔNG THỂ thay đổi sau này</string>
     <string name="select">Chọn tất cả</string>
     <string name="like_all">Thích tất cả</string>
     <string name="dislike_all">Không thích toàn bộ</string>
@@ -126,7 +126,7 @@
     <string name="settings_section_system">Hệ thống &amp; Thông tin</string>
     <string name="starting_radio">Radio đang bắt đầu…</string>
     <string name="edit_playlist_cover">Chỉnh sửa ảnh bìa danh sách phát</string>
-    <string name="edit_playlist_cover_note">LƯU Ý: Tài khoản của bạn phải được liên kết với số điện thoại và được xác minh trên YouTube Music để thay đổi ảnh bìa danh sách phát</string>
+    <string name="edit_playlist_cover_note">LƯU Ý: Tài khoản của bạn phải được liên kết với số điện thoại và được xác minh trên Suika Wave để thay đổi ảnh bìa danh sách phát</string>
     <string name="edit_playlist_cover_note_wait">Sau khi chọn hình ảnh, vui lòng đợi để ảnh bìa mới xuất hiện trong danh sách phát của bạn</string>
     <string name="config_proxy">Cấu hình proxy</string>
     <string name="proxy_username">Tên người dùng proxy</string>
@@ -147,7 +147,7 @@
     <string name="download_in_progress_desc">Đang tải xuống</string>
     <string name="share_playlist_desc">Chia sẻ danh sách phát này</string>
     <string name="delete_playlist_desc">Xóa danh sách phát này vĩnh viễn</string>
-    <string name="sync_playlist_desc">Đồng bộ danh sách phát này với YouTube Music</string>
+    <string name="sync_playlist_desc">Đồng bộ danh sách phát này với Suika Wave</string>
     <string name="primary_color_style">Kiểu màu chính</string>
     <string name="tertiary_color_style">Kiểu màu tam cấp (phụ)</string>
     <string name="swipe_song_to_remove">Vuốt bài hát để xóa khỏi danh sách phát</string>
@@ -327,7 +327,7 @@
     <string name="add_to_library_desc">Lưu vào thư viện</string>
     <string name="download_desc">Tải xuống để phát ngoại tuyến</string>
     <string name="add_to_playlist_desc">Thêm vào danh sách phát</string>
-    <string name="refetch_desc">Tải lại siêu dữ liệu từ YouTube Music</string>
+    <string name="refetch_desc">Tải lại siêu dữ liệu từ Suika Wave</string>
     <string name="share_desc">Chia sẻ liên kết cho bài hát này</string>
     <string name="delete_desc">Xóa vĩnh viễn bài hát này</string>
     <string name="advanced_desc">Điều chỉnh tốc độ (tempo) và cao độ (pitch) của bài hát</string>
@@ -355,7 +355,7 @@
     <string name="density_restart_message">Mật độ hiển thị đã thay đổi sẽ có hiệu lực ngay sau khi khởi động lại ứng dụng. Bạn có muốn khởi động lại ngay không?</string>
     <string name="enable_lrclib_desc">Cơ sở dữ liệu lời bài hát khớp thời gian do cộng đồng đóng góp</string>
     <string name="enable_kugou_desc">Lời bài hát được lấy từ KuGou, một nền tảng âm nhạc phổ biến của Trung Quốc</string>
-    <string name="youtube_music_lyrics_note">LƯU Ý: Lời bài hát từ YouTube Music sẽ được hiển thị tự động khi không có nguồn nào khác. Lời bài hát của chúng thường không được đồng bộ với nhau</string>
+    <string name="youtube_music_lyrics_note">LƯU Ý: Lời bài hát từ Suika Wave sẽ được hiển thị tự động khi không có nguồn nào khác. Lời bài hát của chúng thường không được đồng bộ với nhau</string>
     <string name="enable_lyricsplus">Bật nhà cung cấp lời bài hát LyricsPlus</string>
     <string name="enable_lyricsplus_desc">Đồng bộ lời bài hát từ nhiều nguồn</string>
     <string name="lyrics_provider_selection">Chọn bên cung cấp</string>
@@ -366,7 +366,7 @@
     <string name="lyrics_provider_priority_desc">Kéo để xắp xếp lại nhà cung cấp theo ý muốn. Vị trí càng cao -&gt; Ưu tiên càng cao</string>
     <string name="changelog">Lịch sử cập nhật</string>
     <string name="changelog_empty">Không có lịch sử cập nhật có sẵn</string>
-    <string name="github_releases_url">https://github.com/MetrolistGroup/Metrolist/releases</string>
+    <string name="github_releases_url">https://github.com/SuikaRyp/SuikaaWave/releases</string>
     <string name="list_bullet">•</string>
     <string name="view_on_github">Xem trong GitHub</string>
     <string name="current_version">Phiên bản hiện tại</string>
@@ -414,7 +414,7 @@
     <string name="wrapped_no_data">Không có dữ liệu khả dụng</string>
     <string name="credits_license_desc">Phần mềm miễn phí, mã nguồn mở. Bạn có thể sử dụng, học hỏi, chia sẻ và cải thiện nó😉</string>
     <string name="credits_discord">Máy chủ Discord</string>
-    <string name="credits_view_repo">Xem kho lưu trữ</string>
+    <string name="credits_view_repo">Account Github Dev</string>
     <string name="buy_mo_a_coffee">Ủng hộ tôi một ly cà phê!</string>
     <string name="community_and_info">Cộng đồng &amp; Thông tin</string>
     <string name="stands_with_palestine">Dự án này đứng về Palestine 🇵🇸</string>
@@ -739,7 +739,7 @@
     <string name="android_auto_visible_sections">Các phần hiển thị</string>
     <string name="android_auto_reorder_hint">Nhấn vào một phần để bật hoặc tắt phần đó.\nNhấn và giữ thanh kéo để sắp xếp lại thứ tự. Phần đầu tiên sẽ được hiển thị theo mặc định</string>
     <string name="android_auto_youtube_playlists">Hiển thị danh sách phát được đề xuất trên YouTube</string>
-    <string name="android_auto_youtube_playlists_desc">Hiển thị các danh sách phát được đề xuất của YouTube Music trong phần danh sách phát khi duyệt bằng Android Auto</string>
+    <string name="android_auto_youtube_playlists_desc">Hiển thị các danh sách phát được đề xuất của Suika Wave trong phần danh sách phát khi duyệt bằng Android Auto</string>
     <string name="android_auto_target_playlist">Thêm điểm đến nhanh</string>
     <string name="android_auto_target_playlist_not_set">Chưa chọn danh sách phát nào. Vui lòng chọn một danh sách phát trong cài đặt Android Auto</string>
     <string name="time_transfer_warning">CẢNH BÁO: Thao tác này không thể hoàn tác sau khi hoàn tất. Hãy tạo bản sao lưu trước khi tiếp tục. Chỉ những bài hát có ít nhất một lần phát đã được ghi nhận mới đủ điều kiện</string>
@@ -845,7 +845,7 @@
     <string name="choose_youtube_channel_description">Tài khoản Google này có nhiều kênh. Hãy chọn kênh bạn muốn sử dụng.</string>
     <string name="switch_youtube_channel">Chuyển kênh YouTube</string>
     <string name="youtube_channels_failed">Không thể lấy danh sách kênh YouTube cho tài khoản này. Vui lòng thử lại.</string>
-    <string name="authentication_data_extraction_failed">Không thể truy cập phiên đăng nhập YouTube Music. Vui lòng thử lại.</string>
+    <string name="authentication_data_extraction_failed">Không thể truy cập phiên đăng nhập Suika Wave. Vui lòng thử lại.</string>
     <string name="login_failed_with_error">Lỗi đăng nhập: %1$s</string>
     <string name="add_to_playlist_position">Vị trí thêm vào danh sách phát</string>
     <string name="playlist_position_beginning">Đầu danh sách phát</string>

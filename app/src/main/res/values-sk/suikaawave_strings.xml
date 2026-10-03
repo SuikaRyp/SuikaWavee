@@ -17,7 +17,7 @@
     <string name="cached_playlist">Vo vyrovnávacej pamäti</string>
     <string name="sync_playlist">Synchronizácia playlistu</string>
     <string name="sync_disabled">Synchronizácia zakázaná</string>
-    <string name="allows_for_sync_witch_youtube">Poznámka: Toto umožňuje synchronizáciu s YouTube Music. Toto sa neskôr NEDÁ zmeniť</string>
+    <string name="allows_for_sync_witch_youtube">Poznámka: Toto umožňuje synchronizáciu s Suika Wave. Toto sa neskôr NEDÁ zmeniť</string>
     <string name="generating_image">Generovanie obrázka…</string>
     <string name="please_wait">Prosím, počkajte</string>
     <string name="cancel">Zrušiť</string>
@@ -143,7 +143,7 @@
     <string name="uploaded_playlist">Nahrané</string>
     <string name="filter_uploaded">Nahrané</string>
     <string name="edit_playlist_cover">Upraviť obal playlistu</string>
-    <string name="edit_playlist_cover_note">Poznámka: Na zmenu obalu playlistu musí byť váš účet prepojený s telefónnym číslom a overený v službe YouTube Music.</string>
+    <string name="edit_playlist_cover_note">Poznámka: Na zmenu obalu playlistu musí byť váš účet prepojený s telefónnym číslom a overený v službe Suika Wave.</string>
     <string name="edit_playlist_cover_note_wait">Po výbere obrázka chvíľu počkajte, kým sa nový obal zobrazí vo vašom zozname skladieb.</string>
     <string name="choose_from_library">Vyberte si z knižnice</string>
     <string name="remove_custom_image">Odstrániť vlastný obrázok</string>
@@ -173,7 +173,7 @@
     <string name="download_in_progress_desc">Prebieha sťahovanie</string>
     <string name="share_playlist_desc">Zdieľ\'ať tento playlist s ostatnými</string>
     <string name="delete_playlist_desc">Natrvalo odstrániť tento playlist</string>
-    <string name="sync_playlist_desc">Synchronizácia playlistu s YouTube Music</string>
+    <string name="sync_playlist_desc">Synchronizácia playlistu s Suika Wave</string>
     <string name="primary_color_style">Primárna farba</string>
     <string name="tertiary_color_style">Terciárna farba</string>
     <string name="lyrics_glow_effect">Povoliť efekt žiariaceho textu lyriky</string>
@@ -195,7 +195,7 @@
     <string name="add_to_library_desc">Uložiť do knižnice</string>
     <string name="download_desc">Sprístupniť na prehrávanie offline</string>
     <string name="add_to_playlist_desc">Pridať do jedného zo svojich zoznamov skladieb</string>
-    <string name="refetch_desc">Načítajte najnovšie metadáta z YouTube Music</string>
+    <string name="refetch_desc">Načítajte najnovšie metadáta z Suika Wave</string>
     <string name="share_desc">Zdieľať odkaz na túto položku</string>
     <string name="delete_desc">Natrvalo odstrániť túto položku</string>
     <string name="advanced_desc">Zmeňte tempo a výšku tónu skladby</string>
@@ -320,7 +320,7 @@
     <string name="respect_agent_positioning_desc">Zarovnať texty podľa roly agenta (napr. sprievodné vokály)</string>
     <string name="lyrics_animation_fade">Postupné strácanie</string>
     <string name="enable_kugou_desc">Získava texty piesní z KuGou, populárnej čínskej hudobnej platformy</string>
-    <string name="youtube_music_lyrics_note">POZNÁMKA: Ak nie je k dispozícii žiadny iný zdroj, automaticky sa zobrazia texty z YouTube Music. Zvyčajne nie sú synchronizované.</string>
+    <string name="youtube_music_lyrics_note">POZNÁMKA: Ak nie je k dispozícii žiadny iný zdroj, automaticky sa zobrazia texty z Suika Wave. Zvyčajne nie sú synchronizované.</string>
     <string name="enable_paxsenix">Povoliť Paxsenix</string>
     <string name="enable_paxsenix_desc">Vysoko kvalitné synchronizované texty z Paxsenix API</string>
     <string name="enable_lyricsplus">Povoliť LyricsPlus</string>

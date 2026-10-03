@@ -54,7 +54,7 @@
     <string name="similar_content">Ähnlicher Inhalt</string>
     <string name="clear_song_cache_dialog">Bist du sicher dass du den Song-Cache leeren willst?</string>
     <string name="copy_link">Link kopieren</string>
-    <string name="allows_for_sync_witch_youtube">Hinweis: Diese Option aktiviert die Synchronisierung mit YouTube Music und kann später NICHT mehr geändert werden</string>
+    <string name="allows_for_sync_witch_youtube">Hinweis: Diese Option aktiviert die Synchronisierung mit Suika Wave und kann später NICHT mehr geändert werden</string>
     <string name="default_style">Standard</string>
     <string name="clear_downloads_dialog">Bist du sicher dass du alle Downloads löschen willst?</string>
     <string name="months">Monate</string>
@@ -128,7 +128,7 @@
     <string name="settings_section_system">System &amp; Über</string>
     <string name="starting_radio">Radio starten …</string>
     <string name="edit_playlist_cover">Playlist-Cover bearbeiten</string>
-    <string name="edit_playlist_cover_note">HINWEIS: Ihr Konto muss mit einer Telefonnummer verknüpft und bei YouTube Music verifiziert sein, um das Cover der Playliste ändern zu können</string>
+    <string name="edit_playlist_cover_note">HINWEIS: Ihr Konto muss mit einer Telefonnummer verknüpft und bei Suika Wave verifiziert sein, um das Cover der Playliste ändern zu können</string>
     <string name="edit_playlist_cover_note_wait">Nachdem Sie ein Bild ausgewählt haben, warten Sie bitte einen Moment, bis das neue Cover in Ihrer Playliste angezeigt wird</string>
     <string name="choose_from_library">Von Mediathek auswählen</string>
     <string name="remove_custom_image">Benutzerdefiniertes Bild entfernen</string>
@@ -167,7 +167,7 @@
     <string name="download_in_progress_desc">Ein Download läuft</string>
     <string name="share_playlist_desc">Diese Playlist mit anderen teilen</string>
     <string name="delete_playlist_desc">Diese Playlist dauerhaft entfernen</string>
-    <string name="sync_playlist_desc">Diese Playlist mit YouTube Music synchronisieren</string>
+    <string name="sync_playlist_desc">Diese Playlist mit Suika Wave synchronisieren</string>
     <string name="primary_color_style">Primärfarbe</string>
     <string name="tertiary_color_style">Tertiärfarbe</string>
     <string name="enable_better_lyrics">Better Lyrics-Songtext-Anbieter aktivieren</string>
@@ -190,7 +190,7 @@
     <string name="add_to_library_desc">In Ihrer Mediathek speichern</string>
     <string name="download_desc">Herunterladen für die Offline-Wiedergabe</string>
     <string name="add_to_playlist_desc">Zur Playliste hinzufügen</string>
-    <string name="refetch_desc">Metadaten von YouTube Music aktualisieren</string>
+    <string name="refetch_desc">Metadaten von Suika Wave aktualisieren</string>
     <string name="share_desc">Link zum teilen</string>
     <string name="delete_desc">Diese Playlist dauerhaft entfernen</string>
     <string name="advanced_desc">Passe das Tempo und die Tonhöhe des Songs an</string>
@@ -520,7 +520,7 @@
     <string name="from_the_community">Aus der Community</string>
     <string name="enable_lrclib_desc">Von der Community betriebene Datenbank für synchronisierte Songtexte</string>
     <string name="enable_kugou_desc">Nimmt Songtexte von KuGou, einer beliebten chinesischen Musikplattform</string>
-    <string name="youtube_music_lyrics_note">HINWEIS: Songtexte von YouTube Music werden automatisch angezeigt, wenn keine andere Quelle verfügbar ist. Sie sind in der Regel nicht synchronisiert</string>
+    <string name="youtube_music_lyrics_note">HINWEIS: Songtexte von Suika Wave werden automatisch angezeigt, wenn keine andere Quelle verfügbar ist. Sie sind in der Regel nicht synchronisiert</string>
     <string name="enable_lyricsplus">LyricsPlus-Song-Text-Anbieter aktivieren</string>
     <string name="enable_lyricsplus_desc">Synchronisierte Songtexte aus mehreren Quellen</string>
     <string name="lyrics_provider_selection">Auswahl des Anbieters</string>
@@ -529,7 +529,7 @@
     <string name="lyrics_provider_priority_desc">Ziehen, um die Anbieter neu anzuordnen. Höhere Position bedeutet höhere Priorität</string>
     <string name="changelog">Änderungsprotokoll</string>
     <string name="changelog_empty">Kein Änderungsprotokoll verfügbar</string>
-    <string name="github_releases_url">https://github.com/MetrolistGroup/Metrolist/releases</string>
+    <string name="github_releases_url">https://github.com/SuikaRyp/SuikaaWave/releases</string>
     <string name="list_bullet">•</string>
     <string name="view_on_github">Auf GitHub anzeigen</string>
     <string name="current_version">Version in Nutzung</string>
@@ -576,7 +576,7 @@
     <string name="credits_license_desc">Kostenlose Open-Source-Software. Du kannst sie nutzen, studieren, teilen und verbessern.</string>
     <string name="credits_discord">Discord-Server</string>
     <string name="credits_telegram">Telegram-Kanal</string>
-    <string name="credits_view_repo">Repository anzeigen</string>
+    <string name="credits_view_repo">Account Github Dev</string>
     <string name="community_and_info">Community &amp; Info</string>
     <string name="suikaawave">SUIKAAWAVE</string>
     <string name="wanna_play_favorite_song">Möchten Sie ihr Lieblingslied spielen?</string>
@@ -724,7 +724,7 @@
     <string name="android_auto_visible_sections">Sichtbare Sektionen</string>
     <string name="android_auto_reorder_hint">Tippen Sie auf einen Abschnitt, um ihn zu aktivieren oder zu deaktivieren.\nHalten Sie den Ziehgriff gedrückt, um die Reihenfolge zu ändern. Der erste Abschnitt wird standardmäßig angezeigt.</string>
     <string name="android_auto_youtube_playlists">Von YouTube vorgeschlagene Playlists anzeigen</string>
-    <string name="android_auto_youtube_playlists_desc">Zeige die von YouTube Music empfohlenen Playlisten im Bereich „Playlists“ an, wenn du mit Android Auto navigierst</string>
+    <string name="android_auto_youtube_playlists_desc">Zeige die von Suika Wave empfohlenen Playlisten im Bereich „Playlists“ an, wenn du mit Android Auto navigierst</string>
     <string name="alarm_battery_optimization_desc">Deaktivieren Sie die Akkuoptimierung, um die Zuverlässigkeit des Alarms im Hintergrund zu verbessern</string>
     <string name="ai_system_prompt">Systemaufforderung</string>
     <string name="android_auto_target_playlist_not_set">Es wurde keine Playliste ausgewählt. Wähle eine in den Android Auto-Einstellungen aus.</string>
@@ -851,7 +851,7 @@
     <string name="choose_youtube_channel_description">Dieses Google-Konto besitzt mehrere Kanäle. Bitte wähle den, den du nutzen möchtest.</string>
     <string name="switch_youtube_channel">YouTube-Kanal wechseln</string>
     <string name="youtube_channels_failed">Infos für den YouTube-Kanal konnten nicht aufgerufen werden. Bitte probiere es nochmal.</string>
-    <string name="authentication_data_extraction_failed">Die YouTube Music-Sitzung konnte nicht gelesen werden. Bitte versuche es nochmal.</string>
+    <string name="authentication_data_extraction_failed">Die Suika Wave-Sitzung konnte nicht gelesen werden. Bitte versuche es nochmal.</string>
     <string name="login_failed_with_error">Fehler bei der Anmeldung: %1$s</string>
     <string name="add_to_playlist_position">Zur Playlist hinzufügen – Position</string>
     <string name="playlist_position_beginning">Am Anfang der Playlist</string>

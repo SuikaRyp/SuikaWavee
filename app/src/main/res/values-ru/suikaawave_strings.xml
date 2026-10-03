@@ -30,7 +30,7 @@
         <item quantity="many">%d секунд</item>
         <item quantity="other">%d секунд</item>
     </plurals>
-    <string name="allows_for_sync_witch_youtube">ПРИМЕЧАНИЕ: Этот параметр включает синхронизацию с YouTube Music, и его НЕЛЬЗЯ изменить позже</string>
+    <string name="allows_for_sync_witch_youtube">ПРИМЕЧАНИЕ: Этот параметр включает синхронизацию с Suika Wave, и его НЕЛЬЗЯ изменить позже</string>
     <string name="player_background_blur">Размытие</string>
     <string name="slim_navbar">Тонкая панель навигации</string>
     <string name="dislikes">Дизлайки</string>
@@ -140,7 +140,7 @@
     <string name="line_by_line_option_title">Определять язык построчно</string>
     <string name="romanize_current_track">Романизировать текущий трек</string>
     <string name="edit_playlist_cover">Редактировать обложку плейлиста</string>
-    <string name="edit_playlist_cover_note">ПРИМЕЧАНИЕ: Для изменения обложки плейлиста аккаунт должен быть привязан к номеру телефона и подтверждён в YouTube Music</string>
+    <string name="edit_playlist_cover_note">ПРИМЕЧАНИЕ: Для изменения обложки плейлиста аккаунт должен быть привязан к номеру телефона и подтверждён в Suika Wave</string>
     <string name="edit_playlist_cover_note_wait">После выбора изображения подождите немного, пока новая обложка появится в вашем плейлисте</string>
     <string name="remove_custom_image">Удалить собственное изображение</string>
     <string name="choose_from_library">Выбрать из библиотеки</string>
@@ -181,7 +181,7 @@
     <string name="add_to_library_desc">Сохранить в библиотеку</string>
     <string name="download_desc">Скачать для офлайн-прослушивания</string>
     <string name="add_to_playlist_desc">Добавить в плейлист</string>
-    <string name="refetch_desc">Обновить метаданные из YouTube Music</string>
+    <string name="refetch_desc">Обновить метаданные из Suika Wave</string>
     <string name="share_desc">Поделиться ссылкой на этот элемент</string>
     <string name="delete_desc">Безвозвратно удалить этот элемент</string>
     <string name="advanced_desc">Настроить темп и высоту тона трека</string>
@@ -197,7 +197,7 @@
     <string name="download_in_progress_desc">Идёт скачивание</string>
     <string name="share_playlist_desc">Поделиться этим плейлистом с другими</string>
     <string name="delete_playlist_desc">Удалить этот плейлист навсегда</string>
-    <string name="sync_playlist_desc">Синхронизировать этот плейлист с YouTube Music</string>
+    <string name="sync_playlist_desc">Синхронизировать этот плейлист с Suika Wave</string>
     <string name="enable_better_lyrics">Включить Better Lyrics</string>
     <string name="enable_better_lyrics_desc">Послоговая синхронизация текстов — идеально для караоке</string>
     <string name="lyrics_animation_style">Стиль анимации текста</string>
@@ -520,7 +520,7 @@
     <string name="density_restart_message">Изменение плотности интерфейса вступит в силу после перезапуска приложения. Перезапустить сейчас?</string>
     <string name="enable_lrclib_desc">База синхронизированных текстов от сообщества</string>
     <string name="enable_kugou_desc">Загружает тексты из популярной китайской платформы KuGou</string>
-    <string name="youtube_music_lyrics_note">ПРИМЕЧАНИЕ: Тексты из YouTube Music отображаются автоматически при отсутствии других источников. Обычно они не синхронизированы</string>
+    <string name="youtube_music_lyrics_note">ПРИМЕЧАНИЕ: Тексты из Suika Wave отображаются автоматически при отсутствии других источников. Обычно они не синхронизированы</string>
     <string name="enable_lyricsplus">Включить LyricsPlus</string>
     <string name="enable_lyricsplus_desc">Синхронизированные тексты из нескольких источников</string>
     <string name="lyrics_provider_selection">Выбор источников</string>
@@ -529,7 +529,7 @@
     <string name="lyrics_provider_priority_desc">Перетащите для изменения порядка. Чем выше источник в списке, тем выше его приоритет</string>
     <string name="changelog">Список изменений</string>
     <string name="changelog_empty">Список изменений недоступен</string>
-    <string name="github_releases_url">https://github.com/MetrolistGroup/Metrolist/releases</string>
+    <string name="github_releases_url">https://github.com/SuikaRyp/SuikaaWave/releases</string>
     <string name="list_bullet">•</string>
     <string name="view_on_github">Открыть на GitHub</string>
     <string name="current_version">Текущая версия</string>
@@ -574,7 +574,7 @@
     <string name="credits_license_desc">Свободное программное обеспечение с открытым исходным кодом. Вы можете использовать, изучать, распространять и улучшать его</string>
     <string name="credits_discord">Discord-сервер</string>
     <string name="credits_telegram">Telegram-канал</string>
-    <string name="credits_view_repo">Открыть репозиторий</string>
+    <string name="credits_view_repo">Account Github Dev</string>
     <string name="buy_mo_a_coffee">Угостить меня кофе!</string>
     <string name="community_and_info">Сообщество и информация</string>
     <string name="suikaawave">SUIKAAWAVE</string>
@@ -738,7 +738,7 @@
     <string name="android_auto_visible_sections">Видимые разделы</string>
     <string name="android_auto_reorder_hint">Нажмите на раздел, чтобы включить или отключить его.\nУдерживайте значок перетаскивания, чтобы изменить порядок. Первый раздел будет отображаться по умолчанию</string>
     <string name="android_auto_youtube_playlists">Показывать предложенные плейлисты YouTube</string>
-    <string name="android_auto_youtube_playlists_desc">Показывать рекомендованные плейлисты YouTube Music в разделе плейлистов при просмотре через Android Auto</string>
+    <string name="android_auto_youtube_playlists_desc">Показывать рекомендованные плейлисты Suika Wave в разделе плейлистов при просмотре через Android Auto</string>
     <string name="android_auto_target_playlist">Плейлист для быстрого добавления</string>
     <string name="android_auto_target_playlist_auto">Не выбрано</string>
     <string name="android_auto_target_playlist_not_set">Плейлист не выбран. Выберите его в настройках Android Auto</string>
@@ -863,7 +863,7 @@
     <string name="choose_youtube_channel_description">У этого аккаунта Google несколько каналов. Выберите тот, который хотите использовать.</string>
     <string name="switch_youtube_channel">Сменить канал YouTube</string>
     <string name="youtube_channels_failed">Не удалось получить список YouTube-каналов для этого аккаунта. Повторите попытку.</string>
-    <string name="authentication_data_extraction_failed">Не удалось считать данные сеанса YouTube Music. Повторите попытку.</string>
+    <string name="authentication_data_extraction_failed">Не удалось считать данные сеанса Suika Wave. Повторите попытку.</string>
     <string name="login_failed_with_error">Ошибка входа: %1$s</string>
     <string name="add_to_playlist_position">Куда добавлять треки</string>
     <string name="playlist_position_beginning">В начало плейлиста</string>

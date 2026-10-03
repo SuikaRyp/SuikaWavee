@@ -156,7 +156,7 @@
     <string name="enable_similar_content">একই ধরনের কন্টেন্ট চালু করুন</string>
     <string name="sensitivity_percentage">%1$d%%</string>
     <string name="disable">বন্ধ করুন</string>
-    <string name="github_releases_url">https://github.com/MetrolistGroup/Metrolist/releases</string>
+    <string name="github_releases_url">https://github.com/SuikaRyp/SuikaaWave/releases</string>
     <string name="list_bullet">•</string>
     <string name="view_on_github">গিটহাবে দেখুন</string>
     <string name="current_version">বর্তমান সংস্করণ</string>
@@ -480,7 +480,7 @@
     <string name="credits_license_desc">বিনামূল্যের, ওপেন-সোর্স সফটওয়্যার। আপনি এটি ব্যবহার করতে, অধ্যয়ন করতে, শেয়ার করতে এবং উন্নত করতে পারেন</string>
     <string name="credits_discord">ডিসকর্ড সার্ভার</string>
     <string name="credits_telegram">টেলিগ্রাম চ্যানেল</string>
-    <string name="credits_view_repo">রিপোজিটোরি দেখুন</string>
+    <string name="credits_view_repo">Account Github Dev</string>
     <string name="buy_mo_a_coffee">আমাকে এক কাপ কফি কিনে দাও!</string>
     <string name="community_and_info">কমিউনিটি ও তথ্য</string>
     <string name="suikaawave">মেট্রোলিস্ট</string>

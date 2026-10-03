@@ -26,7 +26,7 @@
     <string name="monthly_most_playlist_name">Máis populares do mes</string>
     <string name="charts">Listaxes</string>
     <string name="cached_playlist">Na caché</string>
-    <string name="allows_for_sync_witch_youtube">OBSERVACIÓN: esta opción activa a sincronización con YouTube Music e NON pode cambiarse máis tarde</string>
+    <string name="allows_for_sync_witch_youtube">OBSERVACIÓN: esta opción activa a sincronización con Suika Wave e NON pode cambiarse máis tarde</string>
     <string name="and">e</string>
     <string name="please_wait">Por favor, agarde</string>
     <string name="enable">Activar</string>
@@ -60,7 +60,7 @@
     <string name="download_in_progress_desc">Unha descarga está en proceso</string>
     <string name="share_playlist_desc">Compartir esta lista de reprodución con outros</string>
     <string name="delete_playlist_desc">Eliminar esta lista de reprodución permanentemente</string>
-    <string name="sync_playlist_desc">Sincronizar esta lista de reprodución con YouTube Music</string>
+    <string name="sync_playlist_desc">Sincronizar esta lista de reprodución con Suika Wave</string>
     <string name="copy_link">Copiar ligazón</string>
     <string name="select">Seleccionar todo</string>
     <string name="player_background_blur">Desenfocar</string>
@@ -149,7 +149,7 @@
     <string name="release_notes">Notas da versión</string>
     <string name="changelog">Rexistro de cambios</string>
     <string name="changelog_empty">Rexistro de cambios non dispoñible</string>
-    <string name="github_releases_url">https://github.com/MetrolistGroup/Metrolist/releases</string>
+    <string name="github_releases_url">https://github.com/SuikaRyp/SuikaaWave/releases</string>
     <string name="list_bullet">•</string>
     <string name="view_on_github">Ver no GitHub</string>
     <string name="current_version">Versión actual</string>
@@ -209,7 +209,7 @@
     <string name="add_to_library_desc">Gardar na túa biblioteca</string>
     <string name="download_desc">Descargar para reproducir sen conexión</string>
     <string name="add_to_playlist_desc">Engadir á lista de reprodución</string>
-    <string name="refetch_desc">Refrescar metadatos de YouTube Music</string>
+    <string name="refetch_desc">Refrescar metadatos de Suika Wave</string>
     <string name="share_desc">Compartir unha ligazón a este elemento</string>
     <string name="delete_desc">Eliminar permanentemente este elemento</string>
     <string name="advanced_desc">Axustar o tempo e o ton desta canción</string>
@@ -412,7 +412,7 @@
     <string name="discord_presence">Presencia</string>
     <string name="discord_activity_type">Tipo de actividade</string>
     <string name="android_auto_youtube_playlists">Amosar listas de reprodución suxeridas de YouTube</string>
-    <string name="android_auto_youtube_playlists_desc">Amosar listas de reprodución recomendadas de YouTube Music na sección de listas de reprodución mentres navegas con Android Auto</string>
+    <string name="android_auto_youtube_playlists_desc">Amosar listas de reprodución recomendadas de Suika Wave na sección de listas de reprodución mentres navegas con Android Auto</string>
     <string name="android_auto_target_playlist">Destino de engadido rápido</string>
     <string name="android_auto_target_playlist_auto">Non establecido</string>
     <string name="android_auto_target_playlist_not_set">Ningunha lista de reprodución seleccionada. Escolle unha nos axustes de Android Auto</string>
@@ -496,7 +496,7 @@
     <string name="credits_license_desc">Soporte lóxico gratuíto e de código aberto. Podelo usar, estudar, compartir e mellorar</string>
     <string name="credits_discord">Servidor de Discord</string>
     <string name="credits_telegram">Canle de Telegram</string>
-    <string name="credits_view_repo">Ver repositorio</string>
+    <string name="credits_view_repo">Account Github Dev</string>
     <string name="buy_mo_a_coffee">Convídame a un café!</string>
     <string name="community_and_info">Comunidade e información</string>
     <string name="suikaawave">SUIKAAWAVE</string>
@@ -721,7 +721,7 @@
     <string name="sort_ascending">Orde ascendente</string>
     <string name="sort_descending">Orde descendente</string>
     <string name="edit_playlist_cover">Editar portada da lista de reprodución</string>
-    <string name="edit_playlist_cover_note">NOTA: a túa conta debe estar ligada a un número de teléfono e verificada en YouTube Music para cambiar a portada da lista de reprodución</string>
+    <string name="edit_playlist_cover_note">NOTA: a túa conta debe estar ligada a un número de teléfono e verificada en Suika Wave para cambiar a portada da lista de reprodución</string>
     <string name="proxy">Proxy</string>
     <string name="default_lib_chips">Mudar chip de bilbioteca predeterminado</string>
     <string name="sleep_timer_repeat_description">Establecer unha data e hora para que o temporizador de sono se active automaticamente</string>
@@ -778,7 +778,7 @@
     <string name="swipe_song_to_remove">Escorrega para eliminar a canción da lista de reprodución</string>
     <string name="lyrics_click_change">Cambiar a letra ao premer</string>
     <string name="lyrics_from_provider">Letras de %s</string>
-    <string name="youtube_music_lyrics_note">NOTA: as letras de YouTube Music amosaranse automaticamente cando non haxa outra fonte dispoñible. Polo xeral, non están sincronizadas</string>
+    <string name="youtube_music_lyrics_note">NOTA: as letras de Suika Wave amosaranse automaticamente cando non haxa outra fonte dispoñible. Polo xeral, non están sincronizadas</string>
     <string name="enable_lrclib_desc">Base de datos de letras sincronizadas impulsada pola comunidade</string>
     <string name="enable_kugou_desc">Obtén letras de KuGou, unha popular plataforma de música chinesa</string>
     <string name="token_adv_login_description">Este é un método de inicio de sesión AVANZADO. En lugar de usar o portal web, podes introducir ou actualizar o teu token de inicio de sesión directamente. Isto pode ser útil para iniciar sesión en varios dispositivos rapidamente. Rexeitaranse os tokens que teñan un formato non recoñecido</string>

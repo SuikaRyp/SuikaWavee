@@ -14,7 +14,7 @@
     <string name="cached_playlist">Gecached</string>
     <string name="sync_playlist">Playlist synchroniseren</string>
     <string name="sync_disabled">Synchroniseren uitgeschakeld</string>
-    <string name="allows_for_sync_witch_youtube">Opmerking: Dit activeert synchronisatie met YouTube Music. Dit kan later NIET worden gewijzigd.</string>
+    <string name="allows_for_sync_witch_youtube">Opmerking: Dit activeert synchronisatie met Suika Wave. Dit kan later NIET worden gewijzigd.</string>
     <string name="generating_image">Afbeelding genereren…</string>
     <string name="please_wait">Een ogenblik geduld alstublieft</string>
     <string name="cancel">Annuleren</string>
@@ -120,7 +120,7 @@
     <string name="line_by_line_option_title">EXPERIMENTEEL: Taal per regel detecteren</string>
     <string name="romanize_current_track">Huidig nummer romaniseren</string>
     <string name="edit_playlist_cover">Afspeellijst omslag aanpassen</string>
-    <string name="edit_playlist_cover_note">Opmerking: Je account moet aan een telefoonnummer gekoppeld zijn en geverifieerd zijn op YouTube Music om de afspeellijstcover te kunnen wijzigen.</string>
+    <string name="edit_playlist_cover_note">Opmerking: Je account moet aan een telefoonnummer gekoppeld zijn en geverifieerd zijn op Suika Wave om de afspeellijstcover te kunnen wijzigen.</string>
     <string name="edit_playlist_cover_note_wait">Aanpassen van omslag kan enkele momenten duren.</string>
     <string name="choose_from_library">Uit bibliotheek kiezen</string>
     <string name="remove_custom_image">Verwijder aangepaste afbeelding</string>
@@ -143,7 +143,7 @@
     <string name="add_to_library_desc">Opslaan in bibliotheek</string>
     <string name="download_desc">Beschikbaar maken voor offline afspelen</string>
     <string name="add_to_playlist_desc">Toevoegen aan afspeellijst</string>
-    <string name="refetch_desc">Opnieuw YouTube Music metadata ophalen</string>
+    <string name="refetch_desc">Opnieuw Suika Wave metadata ophalen</string>
     <string name="advanced_desc">Nummer tempo en toonhoogte aanpassen</string>
     <string name="equalizer_desc">Audio equalizer aanpassen</string>
     <string name="mini_player">Mini-speler</string>
@@ -153,7 +153,7 @@
     <string name="download_in_progress_desc">Downloaden wordt uitgevoerd</string>
     <string name="share_playlist_desc">Deel afspeellijst</string>
     <string name="delete_playlist_desc">Afspeellijst verwijderen</string>
-    <string name="sync_playlist_desc">Synchroniseer afspeellijst met YouTube Music</string>
+    <string name="sync_playlist_desc">Synchroniseer afspeellijst met Suika Wave</string>
     <string name="lyrics_text_size">Songtekst lettergrootte</string>
     <string name="lyrics_line_spacing">Songtekst regel afstand</string>
     <string name="show_wrapped_card">Toon Wrapped</string>

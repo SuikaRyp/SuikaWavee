@@ -15,7 +15,7 @@
     <string name="cached_playlist">Nakacache</string>
     <string name="uploaded_playlist">Naka upload</string>
     <string name="filter_uploaded">Naka upload</string>
-    <string name="allows_for_sync_witch_youtube">Paunawa; ito\'y nagpapagana ng pagsasabay sa YouTube Music at BAWAL na itong palitan</string>
+    <string name="allows_for_sync_witch_youtube">Paunawa; ito\'y nagpapagana ng pagsasabay sa Suika Wave at BAWAL na itong palitan</string>
     <string name="generating_image">Gumagawa ng imahe</string>
     <string name="please_wait">Pakiantay</string>
     <string name="cancel">Kanselahin</string>
@@ -54,7 +54,7 @@
     <string name="download_in_progress_desc">May nagdodownload pa</string>
     <string name="share_playlist_desc">ipakita ito sa iba</string>
     <string name="delete_playlist_desc">tangalin itong playlist habang buhay</string>
-    <string name="sync_playlist_desc">isabay itong playlist sa Youtube Music</string>
+    <string name="sync_playlist_desc">isabay itong playlist sa Suika Wave</string>
     <string name="lyrics">liriko</string>
     <string name="close">isara</string>
     <string name="crop_album_art">icrop ang album art</string>

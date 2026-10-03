@@ -72,7 +72,7 @@
     <string name="default_links">対応しているリンクを開く</string>
     <string name="views">視聴回数</string>
     <string name="likes">高評価数</string>
-    <string name="allows_for_sync_witch_youtube">YouTube Musicと同期します。これは後から変更できません</string>
+    <string name="allows_for_sync_witch_youtube">Suika Waveと同期します。これは後から変更できません</string>
     <string name="sort_by_last_updated">更新日</string>
     <plurals name="n_time">
         <item quantity="other">%d回</item>
@@ -125,7 +125,7 @@
     <string name="swipe_song_to_remove">曲をスワイプしてプレイリストから削除</string>
     <string name="show_uploaded_playlist">アップロードした曲のプレイリストを表示</string>
     <string name="edit_playlist_cover">カバー画像を変更</string>
-    <string name="edit_playlist_cover_note">プレイリストのカバー画像を変更するには、アカウントが電話番号に紐付けられ、YouTube Musicで確認済みである必要があります</string>
+    <string name="edit_playlist_cover_note">プレイリストのカバー画像を変更するには、アカウントが電話番号に紐付けられ、Suika Waveで確認済みである必要があります</string>
     <string name="edit_playlist_cover_note_wait">新しいカバー画像が反映するまでに時間がかかる場合があります</string>
     <string name="choose_from_library">写真から選択</string>
     <string name="remove_custom_image">変更した画像を削除</string>
@@ -172,7 +172,7 @@
     <string name="download_in_progress_desc">ダウンロード中です</string>
     <string name="share_playlist_desc">このプレイリストを他の人と共有します</string>
     <string name="delete_playlist_desc">このプレイリストを完全に削除します</string>
-    <string name="sync_playlist_desc">このプレイリストをYouTube Musicと同期します</string>
+    <string name="sync_playlist_desc">このプレイリストをSuika Waveと同期します</string>
     <string name="crop_album_art">アルバムアートを切り抜く</string>
     <string name="crop_album_art_desc">動画のサムネイルを切り抜いて正方形の比率にします</string>
     <string name="primary_color_style">メインカラー</string>
@@ -211,7 +211,7 @@
     <string name="add_to_library_desc">ライブラリに保存します</string>
     <string name="download_desc">オフライン再生用にダウンロードします</string>
     <string name="add_to_playlist_desc">プレイリストに追加します</string>
-    <string name="refetch_desc">YouTube Musicから最新のメタデータを取得します</string>
+    <string name="refetch_desc">Suika Waveから最新のメタデータを取得します</string>
     <string name="share_desc">このコンテンツのリンクを共有します</string>
     <string name="delete_desc">このコンテンツを完全に削除します</string>
     <string name="advanced_desc">曲の再生速度と音程を調整します</string>
@@ -522,7 +522,7 @@
     <string name="from_the_community">コミュニティのおすすめ</string>
     <string name="enable_lrclib_desc">コミュニティ主導の歌詞データベースです</string>
     <string name="enable_kugou_desc">中国で人気の音楽プラットフォームであるKuGouから歌詞を取得します</string>
-    <string name="youtube_music_lyrics_note">使用できる歌詞ソースがない場合は、YouTube Musicの歌詞が自動的に表示されます。YouTube Musicの歌詞は通常、再生に合わせて表示されません</string>
+    <string name="youtube_music_lyrics_note">使用できる歌詞ソースがない場合は、Suika Waveの歌詞が自動的に表示されます。Suika Waveの歌詞は通常、再生に合わせて表示されません</string>
     <string name="enable_lyricsplus">歌詞の提供元にLyricsPlusを使用</string>
     <string name="enable_lyricsplus_desc">複数のソースの歌詞を提供する提供元です</string>
     <string name="lyrics_provider_selection">歌詞の提供元</string>
@@ -531,7 +531,7 @@
     <string name="lyrics_provider_priority_desc">ドラッグして提供元を並び替えます。上にあるほど優先順位が高くなります</string>
     <string name="changelog">変更履歴</string>
     <string name="changelog_empty">変更履歴はありません</string>
-    <string name="github_releases_url">https://github.com/MetrolistGroup/Metrolist/releases</string>
+    <string name="github_releases_url">https://github.com/SuikaRyp/SuikaaWave/releases</string>
     <string name="list_bullet">•</string>
     <string name="view_on_github">GitHubを開く</string>
     <string name="current_version">バージョン</string>
@@ -566,7 +566,7 @@
     <string name="credits_license_desc">無料でオープンソースのソフトウェアで、使用、学習、共有、改良が可能です</string>
     <string name="credits_discord">Discordサーバー</string>
     <string name="credits_telegram">Telegramチャンネル</string>
-    <string name="credits_view_repo">リポジトリを表示</string>
+    <string name="credits_view_repo">Account Github Dev</string>
     <string name="buy_mo_a_coffee">コーヒーをおごる</string>
     <string name="community_and_info">コミュニティと情報</string>
     <string name="suikaawave">SUIKAAWAVE</string>
@@ -713,7 +713,7 @@
     <string name="android_auto_visible_sections">表示する項目</string>
     <string name="android_auto_reorder_hint">項目をタップするとオン/オフを切り替えられます。長押しで並び替えができます。先頭の項目がデフォルトで表示されます</string>
     <string name="android_auto_youtube_playlists">YouTubeのおすすめのプレイリストを表示</string>
-    <string name="android_auto_youtube_playlists_desc">Android AutoでYouTube Musicのおすすめのプレイリストを表示します</string>
+    <string name="android_auto_youtube_playlists_desc">Android AutoでSuika Waveのおすすめのプレイリストを表示します</string>
     <string name="android_auto_target_playlist">クイック追加先</string>
     <string name="android_auto_target_playlist_auto">未設定</string>
     <string name="android_auto_target_playlist_not_set">プレイリストが選択されていません。Android Autoの設定で選択してください</string>

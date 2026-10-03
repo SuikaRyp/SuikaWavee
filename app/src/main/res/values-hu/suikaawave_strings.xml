@@ -17,7 +17,7 @@
     <string name="cached_playlist">Cache-elt</string>
     <string name="sync_playlist">Lejátszási lista szinkronizálása</string>
     <string name="sync_disabled">Szinkronizálás kikapcsolva</string>
-    <string name="allows_for_sync_witch_youtube">Figyelem: Ez lehetővé teszi a YouTube Music-al való szinkronizálást és NEM változtatható meg később</string>
+    <string name="allows_for_sync_witch_youtube">Figyelem: Ez lehetővé teszi a Suika Wave-al való szinkronizálást és NEM változtatható meg később</string>
     <string name="generating_image">Kép generálása…</string>
     <string name="please_wait">Kérem várjon</string>
     <string name="cancel">Mégse</string>
@@ -137,7 +137,7 @@
     <string name="download_in_progress_desc">A Letöltés folyamatban</string>
     <string name="share_playlist_desc">Lejátszási lista megosztása</string>
     <string name="delete_playlist_desc">Lejátszási lista végleges törlése</string>
-    <string name="sync_playlist_desc">Lejátszási lista szinkronizálása a YouTube Music-kal</string>
+    <string name="sync_playlist_desc">Lejátszási lista szinkronizálása a Suika Wave-kal</string>
     <string name="primary_color_style">Elsődleges szín</string>
     <string name="tertiary_color_style">Harmadlagos szín</string>
     <string name="lyrics_glow_effect">Ragyogó dalszöveg effekt bekapcsolása</string>
@@ -148,7 +148,7 @@
     <string name="shuffle_playlist_first">Először ezen lista vagy album keverése</string>
     <string name="shuffle_playlist_first_desc">Keverés esetén először a lejátszási listát vagy albumot játssza le a hasonló tartalom ajánlás előtt</string>
     <string name="show_wrapped_card">Wrapped kártya megjelenítése</string>
-    <string name="edit_playlist_cover_note">MEGJEGYZÉS: A lejátszási lista borítójának módosításához össze kell kapcsolnia a fiókját egy telefonszámmal, és hitelesíteni kell a YouTube Music-on</string>
+    <string name="edit_playlist_cover_note">MEGJEGYZÉS: A lejátszási lista borítójának módosításához össze kell kapcsolnia a fiókját egy telefonszámmal, és hitelesíteni kell a Suika Wave-on</string>
     <string name="edit_playlist_cover_note_wait">Kérem legyen türelemmel amíg a kiválasztott kép megjelenik a lejátszási lista borítóján</string>
     <string name="choose_from_library">Választás mappából</string>
     <string name="remove_custom_image">Egyedi kép eltávolítása</string>
@@ -207,7 +207,7 @@
     <string name="add_to_library_desc">Mentés a saját könyvtárba</string>
     <string name="download_desc">Későbbi offline lejátszáshoz letöltés</string>
     <string name="add_to_playlist_desc">Hozzáadás lejátszási listához</string>
-    <string name="refetch_desc">Meta-adat frissítése YouTube Music-ról</string>
+    <string name="refetch_desc">Meta-adat frissítése Suika Wave-ról</string>
     <string name="share_desc">Elem hivatkozásának megosztása</string>
     <string name="delete_desc">Elem végleges eltávolítása</string>
     <string name="advanced_desc">Dal ütemének és hangszínének szabályozása</string>
@@ -223,7 +223,7 @@
     <string name="density_restart_message">Az új kijelző sűrűség újraindítás után lép érvénybe. Újra kívánja indítani az alkalmazást?</string>
     <string name="enable_lrclib_desc">Közösség alapú dalszöveg szinkronizálás adatbázis</string>
     <string name="enable_kugou_desc">A közkedvelt KuGou kínai dalszöveg platformról való letöltés</string>
-    <string name="youtube_music_lyrics_note">MEGJEGYZÉS: Ha nem áll rendelkezésre más forrás, a Youtube Music dalszöveg jelenik meg. Utóbbi általában nincs összhangban a zenével</string>
+    <string name="youtube_music_lyrics_note">MEGJEGYZÉS: Ha nem áll rendelkezésre más forrás, a Suika Wave dalszöveg jelenik meg. Utóbbi általában nincs összhangban a zenével</string>
     <string name="enable_lyricsplus">LyricsPlus engedélyezése</string>
     <string name="enable_lyricsplus_desc">Összehangolt dalszövegek több forrásból</string>
     <string name="lyrics_provider_selection">Szolgáltató kiválasztása</string>
@@ -245,7 +245,7 @@
     <string name="export_option_save">Mentés a Dokumentumokba</string>
     <string name="changelog">Változásnapló</string>
     <string name="changelog_empty">Változtatásnapló nem elérhető</string>
-    <string name="github_releases_url">https://github.com/MetrolistGroup/Metrolist/releases</string>
+    <string name="github_releases_url">https://github.com/SuikaRyp/SuikaaWave/releases</string>
     <string name="list_bullet">•</string>
     <string name="view_on_github">Megtekintés GitHub-on</string>
     <string name="current_version">Jelenlegi verzió</string>
@@ -486,7 +486,7 @@
     <string name="credits_license_desc">Ingyenes, nyílt forráskódú szoftver. Használja, tanulmányozza, ossza meg, és javítsa fel</string>
     <string name="credits_discord">Discord szerver</string>
     <string name="credits_telegram">Telegram csatorna</string>
-    <string name="credits_view_repo">Repository megnyitása</string>
+    <string name="credits_view_repo">Account Github Dev</string>
     <string name="buy_mo_a_coffee">Hívjon meg egy kávéra!</string>
     <string name="community_and_info">Közösség &amp; információ</string>
     <string name="suikaawave">SUIKAAWAVE</string>
@@ -729,7 +729,7 @@
     <string name="android_auto_visible_sections">Látható részek</string>
     <string name="android_auto_reorder_hint">Koppintson egy szakaszra az engedélyezéséhez vagy letiltásához.\nNyomja meg hosszan a fogót az átrendezéshez. Alapértelmezés szerint az első szakasz jelenik meg</string>
     <string name="android_auto_youtube_playlists">YouTube által javasolt lejátszási listák megjelenítése</string>
-    <string name="android_auto_youtube_playlists_desc">YouTube Music által ajánlott lejátszási listák megjelenítése a Lejátszási listák részben, amikor az Android Auto-val való böngészésnél</string>
+    <string name="android_auto_youtube_playlists_desc">Suika Wave által ajánlott lejátszási listák megjelenítése a Lejátszási listák részben, amikor az Android Auto-val való böngészésnél</string>
     <string name="android_auto_target_playlist">Gyors-hozzáadás cél</string>
     <string name="android_auto_target_playlist_auto">Nincs beállítva</string>
     <string name="android_auto_target_playlist_not_set">Nincs kiválasztva lejátszási lista. Válasszon egyet az Android Auto beállításaiban</string>

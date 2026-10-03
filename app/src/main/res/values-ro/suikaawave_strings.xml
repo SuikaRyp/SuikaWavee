@@ -16,7 +16,7 @@
     <string name="cached_playlist">În cache</string>
     <string name="sync_playlist">Sincronizează playlistul</string>
     <string name="sync_disabled">Sincronizare dezactivată</string>
-    <string name="allows_for_sync_witch_youtube">Notă: Această setare activează sincronizarea cu YouTube Music și NU poate fi modificată mai târziu</string>
+    <string name="allows_for_sync_witch_youtube">Notă: Această setare activează sincronizarea cu Suika Wave și NU poate fi modificată mai târziu</string>
     <string name="generating_image">Se generează imaginea…</string>
     <string name="please_wait">Așteaptă</string>
     <string name="cancel">Anulează</string>
@@ -138,7 +138,7 @@
     <string name="line_by_line_option_title">Detectează limba linie cu linie</string>
     <string name="romanize_current_track">Romanizează pista curentă</string>
     <string name="edit_playlist_cover">Editează coperta playlistului</string>
-    <string name="edit_playlist_cover_note">NOTĂ: Contul tău trebuie să fie asociat cu un număr de telefon verificat pe YouTube Music pentru a putea schimba coperta playlistului</string>
+    <string name="edit_playlist_cover_note">NOTĂ: Contul tău trebuie să fie asociat cu un număr de telefon verificat pe Suika Wave pentru a putea schimba coperta playlistului</string>
     <string name="edit_playlist_cover_note_wait">După selectarea unei imagini, așteaptă un moment pentru ca noua coperta să apară la playlistul tău</string>
     <string name="choose_from_library">Alege din bibliotecă</string>
     <string name="remove_custom_image">Elimină imaginea personalizată</string>
@@ -181,7 +181,7 @@
     <string name="add_to_library_desc">Salvează în biblioteca ta</string>
     <string name="download_desc">Descarcă pentru redare offline</string>
     <string name="add_to_playlist_desc">Adaugă într-un playlist</string>
-    <string name="refetch_desc">Reîmprospătează metadatele de pe YouTube Music</string>
+    <string name="refetch_desc">Reîmprospătează metadatele de pe Suika Wave</string>
     <string name="share_desc">Distribuie un link către acest element</string>
     <string name="delete_desc">Elimină acest element permanent</string>
     <string name="advanced_desc">Ajustează tempo-ul și înălțimea melodiei</string>
@@ -195,7 +195,7 @@
     <string name="download_in_progress_desc">O descărcare este în progres</string>
     <string name="share_playlist_desc">Distribuie acest playlist cu alții</string>
     <string name="delete_playlist_desc">Elimină acest playlist permanent</string>
-    <string name="sync_playlist_desc">Sincronizează acest playlist cu YouTube Music</string>
+    <string name="sync_playlist_desc">Sincronizează acest playlist cu Suika Wave</string>
     <string name="lyrics_glow_effect">Activează efectul de strălucire al versurilor</string>
     <string name="lyrics_glow_effect_desc">Adaugă o animație de strălucire și un efect de bounce la versurile active</string>
     <string name="enable_better_lyrics">Activează Better Lyrics</string>
@@ -517,7 +517,7 @@
     <string name="density_restart_message">Modificarea densității afișajului va avea efect după repornirea aplicației. Repornești acum?</string>
     <string name="enable_lrclib_desc">Bază de date pentru versuri sincronizate condusă de comunitate</string>
     <string name="enable_kugou_desc">Preia versurile de pe KuGou, o platformă populară chinezească de muzică</string>
-    <string name="youtube_music_lyrics_note">NOTĂ: Versurile de pe YouTube Music vor fi afișate automat atunci când alte versuri nu sunt disponibile. Acestea nu sunt de obicei sincronizate</string>
+    <string name="youtube_music_lyrics_note">NOTĂ: Versurile de pe Suika Wave vor fi afișate automat atunci când alte versuri nu sunt disponibile. Acestea nu sunt de obicei sincronizate</string>
     <string name="enable_lyricsplus">Activează LyricsPlus</string>
     <string name="enable_lyricsplus_desc">Versuri sincronizate din mai multe surse</string>
     <string name="lyrics_provider_selection">Selecția de furnizori</string>
@@ -526,7 +526,7 @@
     <string name="lyrics_provider_priority_desc">Trage pentru a reordona furnizorii după preferințe. O poziție mai înaltă înseamnă prioritate mai mare</string>
     <string name="changelog">Jurnal de modificări</string>
     <string name="changelog_empty">Niciun jurnal de modificări disponibil</string>
-    <string name="github_releases_url">https://github.com/MetrolistGroup/Metrolist/releases</string>
+    <string name="github_releases_url">https://github.com/SuikaRyp/SuikaaWave/releases</string>
     <string name="list_bullet">•</string>
     <string name="view_on_github">Vezi pe GitHub</string>
     <string name="current_version">Versiunea curentă</string>
@@ -581,7 +581,7 @@
     <string name="credits_license_desc">Software liber, cu sursă deschisă. Poți să-l folosești, studiezi, distribui și să-l îmbunătățești</string>
     <string name="credits_discord">Server de Discord</string>
     <string name="credits_telegram">Canal de Telegram</string>
-    <string name="credits_view_repo">Vezi depozitul</string>
+    <string name="credits_view_repo">Account Github Dev</string>
     <string name="buy_mo_a_coffee">Cumpără-mi o cafea!</string>
     <string name="community_and_info">Comunitate și informații</string>
     <string name="suikaawave">SUIKAAWAVE</string>
@@ -732,7 +732,7 @@
     <string name="android_auto_visible_sections">Secțiuni vizibile</string>
     <string name="android_auto_reorder_hint">Atinge o secțiune pentru a o activa sau dezactiva.\nȚine apăsat glisorul pentru a reordona. Prima secțiune va fi afișată în mod prestabilit</string>
     <string name="android_auto_youtube_playlists">Arată playlisturi sugerate de YouTube</string>
-    <string name="android_auto_youtube_playlists_desc">Arată playlisturi recomandate de YouTube Music în secțiunea Playlisturi atunci când navighezi cu Android Auto</string>
+    <string name="android_auto_youtube_playlists_desc">Arată playlisturi recomandate de Suika Wave în secțiunea Playlisturi atunci când navighezi cu Android Auto</string>
     <string name="android_auto_target_playlist">Destinație adăugare rapidă</string>
     <string name="android_auto_target_playlist_auto">Nesetată</string>
     <string name="android_auto_target_playlist_not_set">Niciun playlist selectat. Alege unul în setările Android Auto</string>
@@ -857,7 +857,7 @@
     <string name="choose_youtube_channel_description">Acest cont Google are mai multe canale. Alege unul pe care vrei să-l folosești.</string>
     <string name="switch_youtube_channel">Schimbă canalul de YouTube</string>
     <string name="youtube_channels_failed">Nu s-au putut obține canalele de YouTube pentru acest cont. Te rugăm să încerci din nou.</string>
-    <string name="authentication_data_extraction_failed">Nu s-a putut citi sesiunea de YouTube Music. Te rugăm să încerci din nou.</string>
+    <string name="authentication_data_extraction_failed">Nu s-a putut citi sesiunea de Suika Wave. Te rugăm să încerci din nou.</string>
     <string name="login_failed_with_error">Autentificare eșuată: %1$s</string>
     <string name="add_to_playlist_position">Poziția adăugării în playlist</string>
     <string name="playlist_position_beginning">Începutul playlistului</string>

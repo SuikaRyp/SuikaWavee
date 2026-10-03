@@ -10,7 +10,7 @@
     <string name="offline">已下載</string>
     <string name="my_top">我的Top</string>
     <string name="sync_playlist">同步播放清單</string>
-    <string name="allows_for_sync_witch_youtube">注意：這允許與 Youtube Music 同步，之後無法更改</string>
+    <string name="allows_for_sync_witch_youtube">注意：這允許與 Suika Wave 同步，之後無法更改</string>
     <string name="copy_link">複製連結</string>
     <string name="select">全選</string>
     <string name="like_all">全部喜歡</string>
@@ -119,7 +119,7 @@
     <string name="seek_seconds_addup_description">啟用此選項後，每次快進轉或倒轉時將遞增 5 秒的跳轉長度</string>
     <string name="new_mini_player_design">使用全新迷你播放器設計</string>
     <string name="edit_playlist_cover">更改播放清單圖片</string>
-    <string name="edit_playlist_cover_note">注意：你的帳戶必須連結到電話號碼並在 YouTube Music 上進行驗證才能更改播放清單封面</string>
+    <string name="edit_playlist_cover_note">注意：你的帳戶必須連結到電話號碼並在 Suika Wave 上進行驗證才能更改播放清單封面</string>
     <string name="edit_playlist_cover_note_wait">選擇圖片後，請等待片刻，新的封面就會出現在你的播放清單中</string>
     <string name="config_proxy">設定代理伺服器</string>
     <string name="proxy_username">代理伺服器名稱</string>
@@ -167,7 +167,7 @@
     <string name="download_in_progress_desc">下載正在進行</string>
     <string name="share_playlist_desc">與他人分享此播放列表</string>
     <string name="delete_playlist_desc">永久刪除此播放列表</string>
-    <string name="sync_playlist_desc">將此播放列表與YouTube Music同步</string>
+    <string name="sync_playlist_desc">將此播放列表與Suika Wave同步</string>
     <string name="primary_color_style">主色調</string>
     <string name="tertiary_color_style">三級顏色</string>
     <string name="lyrics_glow_effect">啟用歌詞發光效果</string>
@@ -235,7 +235,7 @@
     <string name="density_restart_message">顯示密度變更將在重新啟動應用後生效。您現在要重啟嗎？</string>
     <string name="enable_lrclib_desc">社群驅動的同步歌詞資料庫</string>
     <string name="enable_kugou_desc">歌詞來自酷狗，一個流行的中國音樂平台</string>
-    <string name="youtube_music_lyrics_note">注意：當其他歌詞無法使用時，會自動顯示來自 YouTube Music 的歌詞，來源歌詞通常不同步</string>
+    <string name="youtube_music_lyrics_note">注意：當其他歌詞無法使用時，會自動顯示來自 Suika Wave 的歌詞，來源歌詞通常不同步</string>
     <string name="prevent_duplicate_tracks_in_queue_desc">將曲目新增至佇列時，如果該曲目已存在於佇列中，則將其從先前的位置移除</string>
     <string name="lyrics_provider_priority">歌詞提供者優先權</string>
     <string name="lyrics_provider_priority_desc">拖曳即可依優先順序重新排列供應商。位置越高，優先權越高</string>
@@ -329,7 +329,7 @@
     <string name="suikaawave">SUIKAAWAVE</string>
     <string name="community_and_info">社區與資訊</string>
     <string name="buy_mo_a_coffee">請我喝杯咖啡吧！</string>
-    <string name="credits_view_repo">查看儲存庫</string>
+    <string name="credits_view_repo">Account Github Dev</string>
     <string name="credits_telegram">Telegram頻道</string>
     <string name="credits_discord">Discord 伺服器</string>
     <string name="credits_license_desc">免費開源軟體。您可以隨意使用、研究、分享和改進它</string>
@@ -462,7 +462,7 @@
     <string name="listen_together_blocked_users_count">%d 用戶已被阻止</string>
     <string name="listen_together_blocked_users">已封鎖用戶</string>
     <string name="prevent_duplicate_tracks_in_queue">防止佇列中出現重複曲目</string>
-    <string name="github_releases_url">https://github.com/MetrolistGroup/Metrolist/releases</string>
+    <string name="github_releases_url">https://github.com/SuikaRyp/SuikaaWave/releases</string>
     <string name="version_format">版本：%s</string>
     <string name="latest_version_format">最新：%s</string>
     <string name="failed_to_check_updates">檢查更新失敗：%s</string>
@@ -480,7 +480,7 @@
     <string name="hide_youtube_shorts">隱藏 YouTube Shorts</string>
     <string name="add_to_queue_desc">添加到播放列表底部</string>
     <string name="add_to_playlist_desc">加到播放列表</string>
-    <string name="refetch_desc">從 YouTube Music 刷新元數據</string>
+    <string name="refetch_desc">從 Suika Wave 刷新元數據</string>
     <string name="share_desc">分享此歌曲鏈接</string>
     <string name="advanced_desc">調整歌曲的節奏和音調</string>
     <string name="mini_player">迷你播放器</string>
@@ -685,7 +685,7 @@
     <string name="android_auto_visible_sections">部分可見</string>
     <string name="android_auto_reorder_hint">點擊某個版塊即可啟用或停用它…\n長按拖曳手把可重新排序。預設會顯示第一部分</string>
     <string name="android_auto_youtube_playlists">顯示 YouTube 建議的播放清單</string>
-    <string name="android_auto_youtube_playlists_desc">Android Auto 會顯示來自 YouTube Music 的推薦播放清單</string>
+    <string name="android_auto_youtube_playlists_desc">Android Auto 會顯示來自 Suika Wave 的推薦播放清單</string>
     <string name="android_auto_target_playlist">快速新增</string>
     <string name="android_auto_target_playlist_auto">未設定</string>
     <string name="android_auto_target_playlist_not_set">未選擇播放清單。請在 Android Auto 設定中選擇一個</string>
@@ -831,7 +831,7 @@
     <string name="choose_youtube_channel_description">這個 Google 帳號有多個頻道。請選則擇你想使用的。</string>
     <string name="switch_youtube_channel">切換 Youtube 頻道</string>
     <string name="youtube_channels_failed">無法取得此帳號的 YouTube 頻道。請重試。</string>
-    <string name="authentication_data_extraction_failed">無法讀取 YouTube Music 工作階段。請重試。</string>
+    <string name="authentication_data_extraction_failed">無法讀取 Suika Wave 工作階段。請重試。</string>
     <string name="login_failed_with_error">登入失敗：%1$s</string>
     <string name="stream_client">串流用戶端</string>
     <string name="format_cipher_support_added">已新增密文碼支援</string>

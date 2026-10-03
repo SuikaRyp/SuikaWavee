@@ -17,7 +17,7 @@
     <string name="cached_playlist">Keşə yüklənmiş</string>
     <string name="sync_playlist">Pleylisti sinxronizasiya et</string>
     <string name="sync_disabled">Sinxronizasiya qeyri-aktivdir</string>
-    <string name="allows_for_sync_witch_youtube">QEYD: Bu seçim YouTube Music ilə sinxronizasiyanı aktivləşdirir və sonradan dəyişdirilə bilməz</string>
+    <string name="allows_for_sync_witch_youtube">QEYD: Bu seçim Suika Wave ilə sinxronizasiyanı aktivləşdirir və sonradan dəyişdirilə bilməz</string>
     <string name="generating_image">Şəkil yaradılır…</string>
     <string name="please_wait">Zəhmət olmasa gözləyin</string>
     <string name="cancel">Ləğv et</string>
@@ -64,7 +64,7 @@
     <string name="download_in_progress_desc">Yükləmək dəvam edir</string>
     <string name="share_playlist_desc">Bu playlisti başqalarıyla paylaş</string>
     <string name="delete_playlist_desc">Bu playlisti həmişəlik sil</string>
-    <string name="sync_playlist_desc">Playlisti YouTube Musicnen sinxronla</string>
+    <string name="sync_playlist_desc">Playlisti Suika Wavenen sinxronla</string>
     <string name="crop_album_art">Albom şəklini kəs</string>
     <string name="player_background_style">Albom şəklini pleyerdə tətbiq loqosu ilə əvəz edin</string>
     <string name="follow_theme">Temanı izlə</string>
@@ -90,7 +90,7 @@
     <string name="lyrics_glow_effect_desc">Aktiv mahnı sətrinə parlaq animasiya və sıçrama effekti əlavə edir</string>
     <string name="enable_lrclib_desc">Icma tərəfindən sinxron liriklər databazası</string>
     <string name="enable_kugou_desc">Mahnı sözlərini populyar Çin musiqi platforması olan KuGou-dan əldə edir</string>
-    <string name="youtube_music_lyrics_note">QEYD: Başqa mənbə mövcud olmadıqda, YouTube Music mahnı sözləri avtomatik olaraq göstəriləcək. Onlar adətən sinxronlaşdırılmır</string>
+    <string name="youtube_music_lyrics_note">QEYD: Başqa mənbə mövcud olmadıqda, Suika Wave mahnı sözləri avtomatik olaraq göstəriləcək. Onlar adətən sinxronlaşdırılmır</string>
     <string name="enable_better_lyrics">Better Lyrics yandır</string>
     <string name="enable_better_lyrics_desc">İstənilən mahnı üçün hecalarla sinxronlaşdırılmış sözlər – karaoke üçün idealdır</string>
     <string name="enable_lyricsplus">LyricsPlus yandır</string>
@@ -109,7 +109,7 @@
     <string name="yt_sync">Hesabla avtomatik sinxronizasiya</string>
     <string name="more_content">Daha çox məzmun</string>
     <string name="edit_playlist_cover">Pleylist şəklini dəyişdir</string>
-    <string name="edit_playlist_cover_note">Qeyd: Pleylist örtüyünü dəyişmək üçün hesabınız telefon nömrəsinə bağlanmalı və YouTube Music-də təsdiqlənməlidir</string>
+    <string name="edit_playlist_cover_note">Qeyd: Pleylist örtüyünü dəyişmək üçün hesabınız telefon nömrəsinə bağlanmalı və Suika Wave-də təsdiqlənməlidir</string>
     <string name="parsed_from_link">Linkdən təhlil edilib</string>
     <string name="weekly_most_playlist_name">Həftəlik ən məşhurlar</string>
     <string name="monthly_most_playlist_name">Aylıq ən məşhurlar</string>
@@ -210,7 +210,7 @@
     <string name="release_notes">Buraxılış qeydləri</string>
     <string name="changelog">Dəyişikliklər siyahısı</string>
     <string name="changelog_empty">Dəyişikliklər siyahısı mövcud deyil</string>
-    <string name="github_releases_url">https://github.com/MetrolistGroup/Metrolist/releases</string>
+    <string name="github_releases_url">https://github.com/SuikaRyp/SuikaaWave/releases</string>
     <string name="list_bullet">•</string>
     <string name="view_on_github">GitHub-da baxın</string>
     <string name="current_version">Cari versiya</string>
@@ -358,7 +358,7 @@
     <string name="add_to_library_desc">Kitabxananıza yaddaşda saxlayın</string>
     <string name="download_desc">Oflayn oynatma üçün yükləyin</string>
     <string name="add_to_playlist_desc">Pleylist siyahısına əlavə et</string>
-    <string name="refetch_desc">YouTube Music metadata yeniləyin</string>
+    <string name="refetch_desc">Suika Wave metadata yeniləyin</string>
     <string name="share_desc">Bu elementə keçid paylaşın</string>
     <string name="delete_desc">Bu elementi həmişəlik silin</string>
     <string name="advanced_desc">Mahnının tempini və tonallığını tənzimləyin</string>
@@ -739,7 +739,7 @@
     <string name="credits_license_desc">Pulsuz, açıq mənbəli proqram təminatı. Siz ondan istifadə edə, onu öyrənə, paylaşa və təkmilləşdirə bilərsiniz</string>
     <string name="credits_discord">Discord serveri</string>
     <string name="credits_telegram">Telegram kanalı</string>
-    <string name="credits_view_repo">Repozitoriyaya baxın</string>
+    <string name="credits_view_repo">Account Github Dev</string>
     <string name="buy_mo_a_coffee">Mənə bir qəhvə al!</string>
     <string name="community_and_info">İcma və Məlumat</string>
     <string name="suikaawave">SUIKAAWAVE</string>
@@ -798,7 +798,7 @@
     <string name="android_auto_visible_sections">Görünən bölmələr</string>
     <string name="android_auto_reorder_hint">Hər hansı bölməni aktivləşdirmək və ya deaktiv etmək üçün ona toxunun. Sıralamanı dəyişdirmək üçün sürüşdürmə işarəsini uzun müddət basıb saxlayın. İlkin olaraq birinci bölmə göstəriləcək</string>
     <string name="android_auto_youtube_playlists">YouTube təklif etdiyi pleylistləri göstər</string>
-    <string name="android_auto_youtube_playlists_desc">Android Auto istifadə edərkən pleylistlər bölməsində YouTube Music-in tövsiyə etdiyi pleylistləri göstərin</string>
+    <string name="android_auto_youtube_playlists_desc">Android Auto istifadə edərkən pleylistlər bölməsində Suika Wave-in tövsiyə etdiyi pleylistləri göstərin</string>
     <string name="android_auto_target_playlist">Təyinat yerini tez əlavə et</string>
     <string name="android_auto_target_playlist_auto">Təyin edilməyib</string>
     <string name="android_auto_target_playlist_not_set">Heç bir pleylist seçilməyib. Android Auto parametrlərində birini seçin</string>
@@ -832,7 +832,7 @@
     <string name="choose_youtube_channel_description">Bu Google hesabında bir neçə kanal var. İstifadə etmək istədiyiniz kanalı seçin.</string>
     <string name="switch_youtube_channel">YouTube kanalını dəyişdirin</string>
     <string name="youtube_channels_failed">Bu hesab üçün YouTube kanalları əldə edilə bilmədi. Zəhmət olmasa, yenidən cəhd edin.</string>
-    <string name="authentication_data_extraction_failed">YouTube Music sessiyası oxuna bilmədi. Zəhmət olmasa, yenidən cəhd edin.</string>
+    <string name="authentication_data_extraction_failed">Suika Wave sessiyası oxuna bilmədi. Zəhmət olmasa, yenidən cəhd edin.</string>
     <string name="login_failed_with_error">Giriş uğursuz oldu: %1$s</string>
     <string name="stream_client">Yayım müştərisi</string>
     <string name="format_player_hash">Pleyer heşi</string>

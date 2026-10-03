@@ -15,7 +15,7 @@
     <string name="cached_playlist">Cachean gordeta</string>
     <string name="sync_playlist">Zerrenda sinkronizatu</string>
     <string name="sync_disabled">Sinkronizazioa itzalita</string>
-    <string name="allows_for_sync_witch_youtube">OHARRA: Aukera honek YouTube Music-ekin sinkronizatzea ahalbidetzen du eta beranduago EZINGO DA aldatu</string>
+    <string name="allows_for_sync_witch_youtube">OHARRA: Aukera honek Suika Wave-ekin sinkronizatzea ahalbidetzen du eta beranduago EZINGO DA aldatu</string>
     <string name="generating_image">Irudia sortzen…</string>
     <string name="please_wait">Itxaron, mesedez</string>
     <string name="cancel">Utzi</string>
@@ -79,7 +79,7 @@
     <string name="yt_sync">Kontuarekin sinkronizazio automatikoa</string>
     <string name="more_content">Eduki gehiago</string>
     <string name="edit_playlist_cover">Editatu erreprodukzio-zerrendaren azala</string>
-    <string name="edit_playlist_cover_note">OHARRA: Zure kontua telefono-zenbaki batekin lotuta egon behar da eta YouTube Music-en egiaztatuta egon behar du erreprodukzio-zerrendaren azala aldatzeko</string>
+    <string name="edit_playlist_cover_note">OHARRA: Zure kontua telefono-zenbaki batekin lotuta egon behar da eta Suika Wave-en egiaztatuta egon behar du erreprodukzio-zerrendaren azala aldatzeko</string>
     <string name="edit_playlist_cover_note_wait">Irudi bat hautatu ondoren, mesedez itxaron une batez zure erreprodukzio-zerrendan azala agertu dadin</string>
     <string name="choose_from_library">Liburutegitik hautatu</string>
     <string name="remove_custom_image">Irudi pertzonalizatua kendu</string>
@@ -150,11 +150,11 @@
     <string name="show_artist_description">Artistaren deskribapena ikusi</string>
     <string name="show_artist_subscriber_count">Harpidedun kopurua ikusi</string>
     <string name="download_playlist_desc">Abesti guztiak deskargatu lineaz-kanpo entzuteko</string>
-    <string name="youtube_music_lyrics_note">OHARRA: YouTube Music-eko hitzak erakutsiko dira automatikoki bestelako iturriko egon ezean. Ez daude sinkronizatuta normalean</string>
+    <string name="youtube_music_lyrics_note">OHARRA: Suika Wave-eko hitzak erakutsiko dira automatikoki bestelako iturriko egon ezean. Ez daude sinkronizatuta normalean</string>
     <string name="remove_download_playlist_desc">Deskargatutako abesti guztiak kendu zerrenda honetatik</string>
     <string name="share_playlist_desc">Zerrenda partekatu</string>
     <string name="delete_playlist_desc">Zerrenda betirako ezabatu</string>
-    <string name="sync_playlist_desc">Zerrenda YouTube Music-ekin sinkronizatu</string>
+    <string name="sync_playlist_desc">Zerrenda Suika Wave-ekin sinkronizatu</string>
     <string name="show_artist_monthly_listeners">Hilabeteko entzuleak ikusi</string>
     <string name="download_in_progress_desc">Deskarga bat martxan dago</string>
     <string name="crop_album_art">Album azala moztu</string>
@@ -258,7 +258,7 @@
     <string name="export_option_save">Dokumentuetan gorde</string>
     <string name="changelog">Aldaketa-erregistroa</string>
     <string name="changelog_empty">Ez dago aldaketa-erregistrorik erabilgarri</string>
-    <string name="github_releases_url">https://github.com/MetrolistGroup/Metrolist/releases</string>
+    <string name="github_releases_url">https://github.com/SuikaRyp/SuikaaWave/releases</string>
     <string name="list_bullet">•</string>
     <string name="view_on_github">GitHub-en ikusi</string>
     <string name="current_version">Oraingo bertsioa</string>
@@ -369,7 +369,7 @@
     <string name="add_to_library_desc">Zure liburutegian gorde</string>
     <string name="download_desc">Deskargatu sarez-kanpo erreprodukziorako</string>
     <string name="add_to_playlist_desc">Erreprodukzio-zerrenda batera gehitu</string>
-    <string name="refetch_desc">Metadata YouTube Music-etik eguneratu</string>
+    <string name="refetch_desc">Metadata Suika Wave-etik eguneratu</string>
     <string name="share_desc">Elementu honetara esteka bat partekatu</string>
     <string name="delete_desc">Betirako kendu elementu hau</string>
     <string name="advanced_desc">Abestiaren tenpoa eta tonua aldatu</string>

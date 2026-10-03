@@ -112,14 +112,14 @@ private val leadDeveloper = Contributor(
 
 @OptIn(ExperimentalMaterial3ExpressiveApi::class)
 private val collaborators = listOf(
-    Contributor(name = "MangYaanz", roleRes = R.string.credits_collaborator, githubHandle = "mangyaanz", polygon = MaterialShapes.Cookie4Sided, favoriteSongVideoId = "m2zUrruKjDQ"),
+    Contributor(name = "MangYaanz", roleRes = R.string.credits_collaborator, githubHandle = "mangyaanzofficial", polygon = MaterialShapes.Cookie4Sided, favoriteSongVideoId = "m2zUrruKjDQ"),
     Contributor(name = "Yogaa Official", roleRes = R.string.credits_collaborator, githubHandle = "yogaaofficial", polygon = MaterialShapes.Cookie12Sided, favoriteSongVideoId = "zselaN6zPXw"),
     Contributor(name = "Xyroo", roleRes = R.string.credits_collaborator, githubHandle = "xyroo", polygon = MaterialShapes.Cookie7Sided, favoriteSongVideoId = "Mh2JWGWvy_Y"),
 )
 
 private val communityLinks = listOf(
     CommunityLink(R.string.credits_telegram, R.drawable.telegram, "https://t.me/SuikaKings"),
-    CommunityLink(R.string.credits_view_repo, R.drawable.github, "https://github.com/MetrolistGroup/Metrolist"),
+    CommunityLink(R.string.credits_view_repo, R.drawable.github, "https://github.com/SuikaRyp"),
     CommunityLink(R.string.credits_license_name, R.drawable.info, "https://github.com/MetrolistGroup/Metrolist/blob/main/LICENSE")
 )
 

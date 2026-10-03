@@ -19,7 +19,7 @@
     <string name="filter_uploaded">Dimuat naik</string>
     <string name="sync_playlist">Selaras senarai main</string>
     <string name="sync_disabled">Penyelarasan ditutup</string>
-    <string name="allows_for_sync_witch_youtube">NOTA: Opsyen ini membolehkan penyelarasan dengan YouTube Music dan TIDAK boleh ditukar selepas ini</string>
+    <string name="allows_for_sync_witch_youtube">NOTA: Opsyen ini membolehkan penyelarasan dengan Suika Wave dan TIDAK boleh ditukar selepas ini</string>
     <string name="generating_image">Menjana imej…</string>
     <string name="please_wait">Sila tunggu</string>
     <string name="cancel">Batal</string>
@@ -38,7 +38,7 @@
     <string name="download_in_progress_desc">Muat turun sedang berlangsung</string>
     <string name="share_playlist_desc">Kongsi senarai main dengan yang lain</string>
     <string name="delete_playlist_desc">Buang senarai main ini selamanya</string>
-    <string name="sync_playlist_desc">Selaraskan senarai main dengan YouTube Music</string>
+    <string name="sync_playlist_desc">Selaraskan senarai main dengan Suika Wave</string>
     <string name="copy_link">Salin pautan</string>
     <string name="select">Pilih semua</string>
     <string name="like_all">Suka semua</string>
@@ -106,7 +106,7 @@
     <string name="restart_required">Mula semula diperlukan!</string>
     <string name="enable_lrclib_desc">Pangkalan data sinkronisasi lirik yang dipacu komuniti</string>
     <string name="enable_kugou_desc">Mengambil lirik daripada KuGou, Platform muzik yang terkenal di China</string>
-    <string name="youtube_music_lyrics_note">NOTA: Lirik daripada YouTube Music akan diguna-pakai jika tiada sumber lain. Kebiasaannya lirik mereka tidak diselaras</string>
+    <string name="youtube_music_lyrics_note">NOTA: Lirik daripada Suika Wave akan diguna-pakai jika tiada sumber lain. Kebiasaannya lirik mereka tidak diselaras</string>
     <string name="enable_lyricsplus">Aktifkan LyricPlus</string>
     <string name="enable_lyricsplus_desc">Lirik yang diselaraskan dari pelbagai sumber</string>
     <string name="lyrics_provider_selection">Pilihan penyedia</string>

@@ -69,7 +69,7 @@
     <string name="cached_playlist">V mezipaměti</string>
     <string name="sync_playlist">Synchronizovat playlist</string>
     <string name="sync_disabled">Synchronizace zakázána</string>
-    <string name="allows_for_sync_witch_youtube">UPOZORNĚNÍ: Tato funkce povolí synchronizaci se službou YouTube Music a NELZE ji později změnit</string>
+    <string name="allows_for_sync_witch_youtube">UPOZORNĚNÍ: Tato funkce povolí synchronizaci se službou Suika Wave a NELZE ji později změnit</string>
     <string name="remove_from_cache">Odstranit z mezipaměti</string>
     <string name="copy_link">Kopírovat odkaz</string>
     <string name="dislike_all">Nelíbí se u všeho</string>
@@ -140,7 +140,7 @@
     <string name="line_by_line_option_title">Rozpoznávat jazyk po řádcích</string>
     <string name="romanize_current_track">Přepsat aktuální skladbu do latinky</string>
     <string name="edit_playlist_cover">Upravit obal playlistu</string>
-    <string name="edit_playlist_cover_note">UPOZORNĚNÍ: Pro změnu obalu alba musí být k vašemu účtu připojeno telefonní číslo a účet musí být ověřen na YouTube Music</string>
+    <string name="edit_playlist_cover_note">UPOZORNĚNÍ: Pro změnu obalu alba musí být k vašemu účtu připojeno telefonní číslo a účet musí být ověřen na Suika Wave</string>
     <string name="edit_playlist_cover_note_wait">Po vybrání obrázku prosím počkejte, než se nový obal objeví ve vašem playlistu</string>
     <string name="choose_from_library">Vybrat z knihovny</string>
     <string name="remove_custom_image">Odstranit vlastní obrázek</string>
@@ -171,7 +171,7 @@
     <string name="google_cast">Google Cast</string>
     <string name="google_cast_description">Streamovat zvuk do Chromecastu a dalších zařízení kompatibilních s protokolem Cast</string>
     <string name="hide_video_songs">Skrýt videoklipy</string>
-    <string name="refetch_desc">Obnovit metadata z YouTube Music</string>
+    <string name="refetch_desc">Obnovit metadata z Suika Wave</string>
     <string name="play_next_desc">Přehrát další ve frontě</string>
     <string name="cache_size_warning_message">Vybraný limit (%1$s) je menší, než kolik aplikace aktuálně používá. Pokračování může způsobit odstranění některých %2$s v mezipaměti. Chcete přesto pokračovat?</string>
     <string name="cache_size_warning_confirm">Pokračovat</string>
@@ -197,7 +197,7 @@
     <string name="download_in_progress_desc">Probíhá stahování</string>
     <string name="share_playlist_desc">Sdílejte tento playlist s ostatními</string>
     <string name="delete_playlist_desc">Trvale odstranit tento playlist</string>
-    <string name="sync_playlist_desc">Synchronizovat tento playlist s YouTube Music</string>
+    <string name="sync_playlist_desc">Synchronizovat tento playlist s Suika Wave</string>
     <string name="enable_better_lyrics">Povolit Better Lyrics</string>
     <string name="enable_better_lyrics_desc">Texty synchronizované slovo po slově, perfektní pro karaoke</string>
     <string name="lyrics_animation_style">Styl animace textů</string>
@@ -537,7 +537,7 @@
     <string name="listen_together_auto_approval_suggestions_desc">Automaticky schvalovat a zařazovat do fronty návrhy skladeb od hostů</string>
     <string name="changelog">Seznam změn</string>
     <string name="changelog_empty">Seznam změn není k dispozici</string>
-    <string name="github_releases_url">https://github.com/MetrolistGroup/Metrolist/releases</string>
+    <string name="github_releases_url">https://github.com/SuikaRyp/SuikaaWave/releases</string>
     <string name="list_bullet">•</string>
     <string name="view_on_github">Zobrazit na GitHubu</string>
     <string name="current_version">Aktuální verze</string>
@@ -563,7 +563,7 @@
     <string name="credits_license_desc">Volně dostupný open-source software. Můžete jej používat, studovat, sdílet a vylepšovat</string>
     <string name="credits_discord">Discord server</string>
     <string name="credits_telegram">Kanál na Telegramu</string>
-    <string name="credits_view_repo">Zobrazit repozitář</string>
+    <string name="credits_view_repo">Account Github Dev</string>
     <string name="buy_mo_a_coffee">Kupte mi kávu!</string>
     <string name="community_and_info">Komunita a informace</string>
     <string name="suikaawave">SUIKAAWAVE</string>
@@ -610,7 +610,7 @@
     <string name="error_podcast_subscribe">Nepodařilo se přihlásit k odběru podcastu</string>
     <string name="error_episode_save">Nepodařilo se uložit epizodu</string>
     <string name="error_episode_remove">Nepodařilo se odebrat epizodu</string>
-    <string name="youtube_music_lyrics_note">UPOZORNĚNÍ: Texty YouTube Music budou zobrazeny automaticky, když není dostupný jiný zdroj. Obvykle nejsou synchronizované</string>
+    <string name="youtube_music_lyrics_note">UPOZORNĚNÍ: Texty Suika Wave budou zobrazeny automaticky, když není dostupný jiný zdroj. Obvykle nejsou synchronizované</string>
     <string name="enable_lyricsplus">Povolit LyricsPlus</string>
     <string name="enable_lyricsplus_desc">Synchronizované texty z několika zdrojů</string>
     <string name="lyrics_provider_selection">Výběr poskytovatele</string>
@@ -742,7 +742,7 @@
     <string name="android_auto_visible_sections">Viditelné sekce</string>
     <string name="android_auto_reorder_hint">Klepněte na sekci pro její povolení nebo zakázání.\nPodržte posuvník pro změnu pořadí. První sekce bude ve výchozím nastavení zobrazena</string>
     <string name="android_auto_youtube_playlists">Zobrazit navrhované playlisty YouTube</string>
-    <string name="android_auto_youtube_playlists_desc">Zobrazit playlisty navrhované službou YouTube Music v sekci playlistů během procházení v Android Auto</string>
+    <string name="android_auto_youtube_playlists_desc">Zobrazit playlisty navrhované službou Suika Wave v sekci playlistů během procházení v Android Auto</string>
     <string name="android_auto_target_playlist">Cíl rychlého přidání</string>
     <string name="android_auto_target_playlist_auto">Nenastaveno</string>
     <string name="android_auto_target_playlist_not_set">Není vybrán žádný playlist. Vyberte jej v nastavení Android Auto</string>
@@ -863,7 +863,7 @@
     <string name="choose_youtube_channel_description">Tento účet Google má několik kanálů. Vyberte, který chcete používat.</string>
     <string name="switch_youtube_channel">Přepnout YouTube kanál</string>
     <string name="youtube_channels_failed">Nepodařilo se načíst YouTube kanály tohoto účtu. Zkuste to prosím znovu.</string>
-    <string name="authentication_data_extraction_failed">Nepodařilo se přečíst relaci YouTube Music. Zkuste to prosím znovu.</string>
+    <string name="authentication_data_extraction_failed">Nepodařilo se přečíst relaci Suika Wave. Zkuste to prosím znovu.</string>
     <string name="login_failed_with_error">Přihlášení selhalo: %1$s</string>
     <string name="add_to_playlist_position">Místo přidání do playlistu</string>
     <string name="playlist_position_beginning">Začátek playlistu</string>

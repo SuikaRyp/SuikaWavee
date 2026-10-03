@@ -19,7 +19,7 @@
     <string name="filter_uploaded">อัปโหลดแล้ว</string>
     <string name="sync_playlist">ซิงค์เพลย์ลิสต์</string>
     <string name="sync_disabled">ปิดการซิงค์แล้ว</string>
-    <string name="allows_for_sync_witch_youtube">หมายเหตุ: การเปิดใช้งานตัวเลือกนี้จะเปิดการซิงค์กับ YouTube Music และจะไม่สามารถเปลี่ยนแปลงได้ในภายหลัง</string>
+    <string name="allows_for_sync_witch_youtube">หมายเหตุ: การเปิดใช้งานตัวเลือกนี้จะเปิดการซิงค์กับ Suika Wave และจะไม่สามารถเปลี่ยนแปลงได้ในภายหลัง</string>
     <string name="generating_image">กำลังสร้างรูปภาพ…</string>
     <string name="please_wait">โปรดรอสักครู่</string>
     <string name="cancel">ยกเลิก</string>
@@ -46,7 +46,7 @@
     <string name="download_in_progress_desc">กำลังดาวน์โหลด</string>
     <string name="share_playlist_desc">แชร์เพลย์ลิสต์นี้ให้ผู้อื่น</string>
     <string name="delete_playlist_desc">ลบเพลย์ลิสต์นี้อย่างถาวร</string>
-    <string name="sync_playlist_desc">ซิงค์เพลย์ลิสต์นี้กับ YouTube Music</string>
+    <string name="sync_playlist_desc">ซิงค์เพลย์ลิสต์นี้กับ Suika Wave</string>
     <string name="copy_link">คัดลอกลิงก์</string>
     <string name="select">เลือกทั้งหมด</string>
     <string name="like_all">ถูกใจทั้งหมด</string>
@@ -112,7 +112,7 @@
     <string name="yt_sync">ซิงค์กับบัญชีโดยอัตโนมัติ</string>
     <string name="more_content">เนื้อหาเพิ่มเติม</string>
     <string name="edit_playlist_cover">แก้ไขปกเพลย์ลิสต์</string>
-    <string name="edit_playlist_cover_note">หมายเหตุ: บัญชีของคุณต้องเชื่อมโยงกับหมายเลขโทรศัพท์และยืนยันตัวตนบน YouTube Music ก่อนจึงจะสามารถเปลี่ยนปกเพลย์ลิสต์ได้</string>
+    <string name="edit_playlist_cover_note">หมายเหตุ: บัญชีของคุณต้องเชื่อมโยงกับหมายเลขโทรศัพท์และยืนยันตัวตนบน Suika Wave ก่อนจึงจะสามารถเปลี่ยนปกเพลย์ลิสต์ได้</string>
     <string name="edit_playlist_cover_note_wait">หลังจากเลือกภาพแล้ว โปรดรอสักครู่เพื่อให้ปกใหม่แสดงในเพลย์ลิสต์ของคุณ</string>
     <string name="choose_from_library">เลือกจากคลัง</string>
     <string name="remove_custom_image">ลบภาพที่กำหนดเอง</string>
@@ -218,7 +218,7 @@
     <string name="add_to_library_desc">บันทึกไปยังคลังของคุณ</string>
     <string name="download_desc">ดาวน์โหลดเพื่อฟังแบบออฟไลน์</string>
     <string name="add_to_playlist_desc">เพิ่มไปยังเพลย์ลิสต์</string>
-    <string name="refetch_desc">ดึงข้อมูลล่าสุดจาก YouTube Music</string>
+    <string name="refetch_desc">ดึงข้อมูลล่าสุดจาก Suika Wave</string>
     <string name="share_desc">แชร์ลิงก์ของรายการนี้</string>
     <string name="delete_desc">ลบรายการนี้อย่างถาวร</string>
     <string name="advanced_desc">ปรับความเร็วและคีย์เสียงของเพลง</string>
@@ -511,7 +511,7 @@
     <string name="density_restart_message">การเปลี่ยนความหนาแน่นของหน้าจอจะมีผลหลังจากรีสตาร์ทแอป คุณต้องการรีสตาร์ทตอนนี้หรือไม่?</string>
     <string name="enable_lrclib_desc">ฐานข้อมูลเนื้อเพลงแบบซิงค์ที่ขับเคลื่อนโดยชุมชนผู้ใช้</string>
     <string name="enable_kugou_desc">ดึงเนื้อเพลงจาก KuGou แพลตฟอร์มเพลงยอดนิยมของจีน</string>
-    <string name="youtube_music_lyrics_note">หมายเหตุ: เนื้อเพลงจาก YouTube Music จะแสดงโดยอัตโนมัติเมื่อไม่มีแหล่งเนื้อเพลงอื่นให้ใช้งาน โดยทั่วไปเนื้อเพลงเหล่านี้มักไม่ซิงค์กับจังหวะเพลง</string>
+    <string name="youtube_music_lyrics_note">หมายเหตุ: เนื้อเพลงจาก Suika Wave จะแสดงโดยอัตโนมัติเมื่อไม่มีแหล่งเนื้อเพลงอื่นให้ใช้งาน โดยทั่วไปเนื้อเพลงเหล่านี้มักไม่ซิงค์กับจังหวะเพลง</string>
     <string name="enable_lyricsplus">เปิดใช้งาน LyricsPlus</string>
     <string name="enable_lyricsplus_desc">เนื้อเพลงแบบซิงค์จากหลายแหล่ง</string>
     <string name="lyrics_provider_selection">การเลือกผู้ให้บริการเนื้อเพลง</string>
@@ -520,7 +520,7 @@
     <string name="lyrics_provider_priority_desc">ลากเพื่อจัดเรียงลำดับผู้ให้บริการตามความต้องการ ตำแหน่งที่อยู่สูงกว่าจะมีลำดับความสำคัญมากกว่า</string>
     <string name="changelog">บันทึกการเปลี่ยนแปลง</string>
     <string name="changelog_empty">ยังไม่มีบันทึกการเปลี่ยนแปลง</string>
-    <string name="github_releases_url">https://github.com/MetrolistGroup/Metrolist/releases</string>
+    <string name="github_releases_url">https://github.com/SuikaRyp/SuikaaWave/releases</string>
     <string name="list_bullet">•</string>
     <string name="view_on_github">ดูบน GitHub</string>
     <string name="current_version">เวอร์ชันปัจจุบัน</string>
@@ -566,7 +566,7 @@
     <string name="credits_license_desc">ซอฟต์แวร์โอเพนซอร์สฟรี คุณสามารถใช้งาน ศึกษา แจกจ่าย และพัฒนาเพิ่มเติมได้</string>
     <string name="credits_discord">เซิร์ฟเวอร์ Discord</string>
     <string name="credits_telegram">ช่อง Telegram</string>
-    <string name="credits_view_repo">ดูที่เก็บโค้ด</string>
+    <string name="credits_view_repo">Account Github Dev</string>
     <string name="buy_mo_a_coffee">เลี้ยงกาแฟฉันสักแก้ว!</string>
     <string name="community_and_info">ชุมชนและข้อมูล</string>
     <string name="suikaawave">SUIKAAWAVE</string>
@@ -738,7 +738,7 @@
     <string name="android_auto_visible_sections">ส่วนที่แสดง</string>
     <string name="android_auto_reorder_hint">แตะที่แต่ละส่วนเพื่อเปิดหรือปิดการแสดงผล\nกดค้างที่ตัวจับลากเพื่อจัดเรียงลำดับใหม่ ส่วนแรกจะถูกแสดงเป็นค่าเริ่มต้น</string>
     <string name="android_auto_youtube_playlists">แสดงเพลย์ลิสต์แนะนำจาก YouTube</string>
-    <string name="android_auto_youtube_playlists_desc">แสดงเพลย์ลิสต์แนะนำจาก YouTube Music ในส่วนเพลย์ลิสต์ขณะใช้งาน Android Auto</string>
+    <string name="android_auto_youtube_playlists_desc">แสดงเพลย์ลิสต์แนะนำจาก Suika Wave ในส่วนเพลย์ลิสต์ขณะใช้งาน Android Auto</string>
     <string name="android_auto_target_playlist">ปลายทางการเพิ่มด่วน</string>
     <string name="android_auto_target_playlist_auto">ยังไม่ได้ตั้งค่า</string>
     <string name="android_auto_target_playlist_not_set">ยังไม่ได้เลือกเพลย์ลิสต์ โปรดเลือกในการตั้งค่า Android Auto</string>

@@ -17,7 +17,7 @@
     <string name="cached_playlist">En caché</string>
     <string name="sync_playlist">Sincronizar lista de reproducción</string>
     <string name="sync_disabled">Sincronización deshabilitada</string>
-    <string name="allows_for_sync_witch_youtube">Nota: Esto habilita la sincronización con YouTube Music. y NO se puede cambiar después</string>
+    <string name="allows_for_sync_witch_youtube">Nota: Esto habilita la sincronización con Suika Wave. y NO se puede cambiar después</string>
     <string name="remove_from_cache">Eliminar de la caché</string>
     <string name="copy_link">Copiar enlace</string>
     <string name="select">Seleccionar todo</string>
@@ -138,7 +138,7 @@
     <string name="line_by_line_option_title">Detectar idioma línea por línea</string>
     <string name="romanize_current_track">Romanizar la pista actual</string>
     <string name="edit_playlist_cover">Editar la portada de la lista de reproducción</string>
-    <string name="edit_playlist_cover_note">Nota: Tu cuenta debe estar vinculada a un número de teléfono y verificada en YouTube Music para cambiar la portada de la lista de reproducción</string>
+    <string name="edit_playlist_cover_note">Nota: Tu cuenta debe estar vinculada a un número de teléfono y verificada en Suika Wave para cambiar la portada de la lista de reproducción</string>
     <string name="edit_playlist_cover_note_wait">Después de seleccionar una imagen, espera un momento hasta que la nueva portada aparezca en la lista de reproducción</string>
     <string name="choose_from_library">Elegir desde la biblioteca</string>
     <string name="remove_custom_image">Eliminar imagen personalizada</string>
@@ -180,7 +180,7 @@
     <string name="add_to_library_desc">Guardar en la biblioteca</string>
     <string name="download_desc">Descargar para reproducir sin conexión</string>
     <string name="add_to_playlist_desc">Añadir a una lista de reproducción</string>
-    <string name="refetch_desc">Actualizar los metadatos desde YouTube Music</string>
+    <string name="refetch_desc">Actualizar los metadatos desde Suika Wave</string>
     <string name="share_desc">Compartir un enlace a este elemento</string>
     <string name="delete_desc">Eliminar este elemento de forma permanente</string>
     <string name="advanced_desc">Ajustar el tempo y el tono de la canción</string>
@@ -195,7 +195,7 @@
     <string name="download_in_progress_desc">La descarga está en proceso</string>
     <string name="share_playlist_desc">Compartir esta lista de reproducción con otros</string>
     <string name="delete_playlist_desc">Eliminar esta lista de reproducción de forma permanente</string>
-    <string name="sync_playlist_desc">Sincronizar lista de reproducción con YouTube Music</string>
+    <string name="sync_playlist_desc">Sincronizar lista de reproducción con Suika Wave</string>
     <string name="enable_better_lyrics">Habilitar Better Lyrics</string>
     <string name="enable_better_lyrics_desc">Letras sincronizadas por sílabas para cualquier canción, ideales para karaoke</string>
     <string name="lyrics_animation_style">Estilo de animación de la letra</string>
@@ -530,7 +530,7 @@
     <string name="from_the_community">De la comunidad</string>
     <string name="enable_lrclib_desc">Base de datos de letras sincronizadas impulsada por la comunidad</string>
     <string name="enable_kugou_desc">Obtiene las letras de KuGou, una popular plataforma de música china</string>
-    <string name="youtube_music_lyrics_note">NOTA: Las letras de YouTube Music se mostrarán automáticamente cuando no haya otras letras disponibles. Las letras de YTM no suelen estar sincronizadas</string>
+    <string name="youtube_music_lyrics_note">NOTA: Las letras de Suika Wave se mostrarán automáticamente cuando no haya otras letras disponibles. Las letras de YTM no suelen estar sincronizadas</string>
     <string name="enable_lyricsplus">Activar LyricsPlus</string>
     <string name="enable_lyricsplus_desc">Letras sincronizadas de múltiples fuentes</string>
     <string name="lyrics_provider_selection">Selección de proveedor</string>
@@ -539,7 +539,7 @@
     <string name="lyrics_provider_priority_desc">Arrastra para reordenar los proveedores por preferencia. Una posición más alta indica una mayor prioridad</string>
     <string name="changelog">Registro de cambios</string>
     <string name="changelog_empty">No hay registros de cambios disponibles</string>
-    <string name="github_releases_url">https://github.com/MetrolistGroup/Metrolist/releases</string>
+    <string name="github_releases_url">https://github.com/SuikaRyp/SuikaaWave/releases</string>
     <string name="list_bullet">•</string>
     <string name="view_on_github">Ver en GitHub</string>
     <string name="current_version">Versión actual</string>
@@ -572,7 +572,7 @@
     <string name="credits_license_desc">Software libre y de código abierto. Puedes usarlo, estudiarlo, compartirlo y mejorarlo</string>
     <string name="credits_discord">Servidor de Discord</string>
     <string name="credits_telegram">Canal de Telegram</string>
-    <string name="credits_view_repo">Ver repositorio</string>
+    <string name="credits_view_repo">Account Github Dev</string>
     <string name="buy_mo_a_coffee">¡Invítame un café!</string>
     <string name="community_and_info">Comunidad e información</string>
     <string name="suikaawave">SUIKAAWAVE</string>
@@ -857,7 +857,7 @@
     <string name="choose_youtube_channel_description">Esta cuenta de Google tiene varios canales. Elige la que quieres usar.</string>
     <string name="switch_youtube_channel">Cambiar de canal de YouTube</string>
     <string name="youtube_channels_failed">No pude recuperar los canales de YouTube de esta cuenta. Por favor, inténtalo de nuevo.</string>
-    <string name="authentication_data_extraction_failed">No pude leer la sesión de YouTube Music. Por favor, inténtalo de nuevo.</string>
+    <string name="authentication_data_extraction_failed">No pude leer la sesión de Suika Wave. Por favor, inténtalo de nuevo.</string>
     <string name="login_failed_with_error">Inicio de sesión fallido: %1$s</string>
     <string name="add_to_playlist_position">Agregar a la posición de la lista de reproducción</string>
     <string name="playlist_position_beginning">Inicio de la lista de reproducción</string>

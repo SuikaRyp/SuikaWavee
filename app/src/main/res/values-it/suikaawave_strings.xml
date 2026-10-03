@@ -17,7 +17,7 @@
     <string name="cached_playlist">In cache</string>
     <string name="sync_playlist">Sincronizza playlist</string>
     <string name="sync_disabled">Sincronizzazione disabilitata</string>
-    <string name="allows_for_sync_witch_youtube">Nota: questo attiva la sincronizzazione con YouTube Music e NON è modificabile successivamente</string>
+    <string name="allows_for_sync_witch_youtube">Nota: questo attiva la sincronizzazione con Suika Wave e NON è modificabile successivamente</string>
     <string name="remove_from_cache">Rimuovi dalla cache</string>
     <string name="copy_link">Copia link</string>
     <string name="select">Seleziona tutti</string>
@@ -52,7 +52,7 @@
     <string name="advanced_login">Accedi con il token</string>
     <string name="token_hidden">Tocca per mostrare il token</string>
     <string name="token_shown">Tocca ancora per copiarlo o modificarlo</string>
-    <string name="token_adv_login_description">Questo è un metodo AVANZATO per fare l\'accesso a YouTube Music. Come alternativa al portale web, puoi inserire o aggiornare direttamente il tuo token di accesso qui. Per esempio, questo può velocizzare l\'accesso su più dispositivi. Tieni presente che qualsiasi formato di token non valido che l\'app non riesce ad analizzare non sarà accettato</string>
+    <string name="token_adv_login_description">Questo è un metodo AVANZATO per fare l\'accesso a Suika Wave. Come alternativa al portale web, puoi inserire o aggiornare direttamente il tuo token di accesso qui. Per esempio, questo può velocizzare l\'accesso su più dispositivi. Tieni presente che qualsiasi formato di token non valido che l\'app non riesce ad analizzare non sarà accettato</string>
     <string name="general">Generale</string>
     <string name="proxy">Proxy</string>
     <string name="default_lib_chips">Cambia chip predefinito della libreria</string>
@@ -138,7 +138,7 @@
     <string name="line_by_line_option_title">Rileva la lingua riga per riga</string>
     <string name="romanize_current_track">Romanizza attuale brano</string>
     <string name="edit_playlist_cover">Modifica la copertina della playlist</string>
-    <string name="edit_playlist_cover_note">NOTA: Il tuo account deve essere collegato a un numero di telefono e verificato su YouTube Music per modificare la copertina della playlist</string>
+    <string name="edit_playlist_cover_note">NOTA: Il tuo account deve essere collegato a un numero di telefono e verificato su Suika Wave per modificare la copertina della playlist</string>
     <string name="edit_playlist_cover_note_wait">Dopo aver selezionato un\'immagine, si deve attendere un momento affinché compaia la nuova immagine della tua playlist</string>
     <string name="choose_from_library">Scegli dalla galleria</string>
     <string name="remove_custom_image">Rimuovi immagine personalizzata</string>
@@ -179,7 +179,7 @@
     <string name="add_to_library_desc">Salva nella tua libreria</string>
     <string name="download_desc">Scarica per la riproduzione offline</string>
     <string name="add_to_playlist_desc">Aggiungi a una playlist</string>
-    <string name="refetch_desc">Aggiorna i metadati da YouTube Music</string>
+    <string name="refetch_desc">Aggiorna i metadati da Suika Wave</string>
     <string name="share_desc">Condividi un collegamento con questo elemento</string>
     <string name="delete_desc">Rimuovi definitivamente questo elemento</string>
     <string name="advanced_desc">Regola il tempo e l\'intonazione della canzone</string>
@@ -195,7 +195,7 @@
     <string name="remove_download_playlist_desc">Rimuovi tutti i brani scaricati da questa playlist</string>
     <string name="share_playlist_desc">Condividi questa playlist con altri</string>
     <string name="delete_playlist_desc">Rimuovi definitivamente questa playlist</string>
-    <string name="sync_playlist_desc">Sincronizza questa playlist con YouTube Music</string>
+    <string name="sync_playlist_desc">Sincronizza questa playlist con Suika Wave</string>
     <string name="enable_better_lyrics">Attiva il fornitore di testi Better Lyrics</string>
     <string name="enable_better_lyrics_desc">Testi sincronizzati alla sillaba per ogni brano. Perfetto per il karaoke</string>
     <string name="shuffle_playlist_first">Riproduzione casuale della playlist o dell\'album all\'inizio</string>
@@ -517,7 +517,7 @@
     <string name="density_restart_message">Il cambio della densità dello schermo si applicherà dopo aver riavviato l\'app. Riavvia ora?</string>
     <string name="enable_lrclib_desc">Database di testi sincronizzati gestito dalla comunità</string>
     <string name="enable_kugou_desc">Ottiene i testi da KuGou, una piattaforma cinese popolare di musica</string>
-    <string name="youtube_music_lyrics_note">NOTA: i testi tratti da YouTube Music saranno mostrati automaticamente quando nessun\'altra fonte è disponibile. Solitamente non sono sincronizzati</string>
+    <string name="youtube_music_lyrics_note">NOTA: i testi tratti da Suika Wave saranno mostrati automaticamente quando nessun\'altra fonte è disponibile. Solitamente non sono sincronizzati</string>
     <string name="enable_lyricsplus">Attiva LyricsPlus</string>
     <string name="enable_lyricsplus_desc">Testi sincronizzati da più fonti</string>
     <string name="lyrics_provider_selection">Selezione del fornitore</string>
@@ -537,7 +537,7 @@
     <string name="lyrics_provider_priority_desc">Trascina per riordinare i fornitori in base alle preferenze. Una posizione più alta significa una priorità più alta</string>
     <string name="changelog">Novità</string>
     <string name="changelog_empty">Nessuna novità disponibile</string>
-    <string name="github_releases_url">https://github.com/MetrolistGroup/Metrolist/releases</string>
+    <string name="github_releases_url">https://github.com/SuikaRyp/SuikaaWave/releases</string>
     <string name="list_bullet">•</string>
     <string name="view_on_github">Mostra su GitHub</string>
     <string name="current_version">Versione attuale</string>
@@ -569,7 +569,7 @@
     <string name="credits_license_desc">Software gratuito e open source. Puoi usarlo, studiarlo, condividerlo e migliorarlo</string>
     <string name="credits_discord">Server Discord</string>
     <string name="credits_telegram">Canale Telegram</string>
-    <string name="credits_view_repo">Visualizza archivio</string>
+    <string name="credits_view_repo">Account Github Dev</string>
     <string name="buy_mo_a_coffee">Offrimi un caffè!</string>
     <string name="community_and_info">Comunità e Informazioni</string>
     <string name="suikaawave">SUIKAAWAVE</string>
@@ -712,7 +712,7 @@
     <string name="android_auto">Android Auto</string>
     <string name="android_auto_visible_sections">Sezioni visibili</string>
     <string name="android_auto_youtube_playlists">Mostra le playlist suggerite da YouTube</string>
-    <string name="android_auto_youtube_playlists_desc">Mostra le playlist consigliate da YouTube Music nella sezione Playlist durante la navigazione con Android Auto</string>
+    <string name="android_auto_youtube_playlists_desc">Mostra le playlist consigliate da Suika Wave nella sezione Playlist durante la navigazione con Android Auto</string>
     <string name="android_auto_target_playlist_auto">Non impostato</string>
     <string name="android_auto_target_playlist_not_set">Nessuna playlist selezionata. Scegline una nelle impostazioni di Android Auto</string>
     <string name="time_transfer_source_song">Brano sorgente</string>
@@ -862,7 +862,7 @@
     <string name="choose_youtube_channel_description">Questo account Google ha più canali. Scegli quello che vuoi usare.</string>
     <string name="switch_youtube_channel">Cambia canale di YouTube</string>
     <string name="youtube_channels_failed">Impossibile ottenere i canali di YouTube di questo account. Per favore riprova.</string>
-    <string name="authentication_data_extraction_failed">Impossibile leggere la sessione di YouTube Music. Per favore riprova.</string>
+    <string name="authentication_data_extraction_failed">Impossibile leggere la sessione di Suika Wave. Per favore riprova.</string>
     <string name="login_failed_with_error">Accesso non riuscito: %1$s</string>
     <string name="error_explicit_login_recommended">La riproduzione esplicita funziona meglio se si è fatto l\'accesso.</string>
     <string name="error_offline_playback">Sei disconnesso. Connettiti a internet o riproduci una traccia scaricata per riprodurla offline.</string>

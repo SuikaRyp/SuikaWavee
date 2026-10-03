@@ -17,7 +17,7 @@
     <string name="cached_playlist">Predpomnjeno</string>
     <string name="sync_playlist">Sinhronizacija seznama predvajanja</string>
     <string name="sync_disabled">Sinhronizacija onemogočena</string>
-    <string name="allows_for_sync_witch_youtube">Opomba: To omogoča sinhronizacijo z aplikacijo YouTube Music. Tega kasneje NI mogoče spremeniti.</string>
+    <string name="allows_for_sync_witch_youtube">Opomba: To omogoča sinhronizacijo z aplikacijo Suika Wave. Tega kasneje NI mogoče spremeniti.</string>
     <string name="generating_image">Generiranje slike</string>
     <string name="please_wait">Prosim, počakajte</string>
     <string name="cancel">Prekliči</string>
@@ -139,7 +139,7 @@
     <string name="download_in_progress_desc">Prenos je v teku</string>
     <string name="share_playlist_desc">Deli ta seznam predvajanja z drugimi</string>
     <string name="delete_playlist_desc">Trajno odstrani ta seznam predvajanja</string>
-    <string name="sync_playlist_desc">Sinhroniziraj seznam predvajanja z YouTube Music</string>
+    <string name="sync_playlist_desc">Sinhroniziraj seznam predvajanja z Suika Wave</string>
     <string name="starting_radio">Zaganjanje radia</string>
     <string name="crop_album_art">Obreži sliko albuma</string>
     <string name="crop_album_art_desc">Vsili kvadratno razmerje stranic z obrezovanjem sličic videoposnetkov</string>
@@ -175,7 +175,7 @@
     <string name="scrobble_delay_minutes">Zakasnitev beleženja v minutah</string>
     <string name="last_fm_send_likes">Pošlji všečke/nevšečke</string>
     <string name="last_fm_send_likes_description">Dodaj/odstrani pesmi med priljubljenimi na Last.fm, ko jih všečkaš/odvšečkaš v SuikaaWaveu</string>
-    <string name="edit_playlist_cover_note">Opomba: Vaš račun mora biti povezan s telefonsko številko in preverjen na YouTube Music, da lahko spremenite naslovnico seznama predvajanja.</string>
+    <string name="edit_playlist_cover_note">Opomba: Vaš račun mora biti povezan s telefonsko številko in preverjen na Suika Wave, da lahko spremenite naslovnico seznama predvajanja.</string>
     <string name="settings_section_player_content">Predvajalnik in vsebina</string>
     <string name="settings_section_storage">Shramba in podatki</string>
     <string name="settings_section_system">Sistem in o programu</string>
@@ -208,7 +208,7 @@
     <string name="add_to_library_desc">Shrani v knjižnico</string>
     <string name="download_desc">Omogoči predvajanje brez povezave</string>
     <string name="add_to_playlist_desc">Dodaj na enega od seznamov predvajanja</string>
-    <string name="refetch_desc">Pridobi najnovejše metapodatke iz YouTube Music</string>
+    <string name="refetch_desc">Pridobi najnovejše metapodatke iz Suika Wave</string>
     <string name="share_desc">Deli povezavo do tega elementa</string>
     <string name="delete_desc">Trajno odstrani ta element</string>
     <string name="advanced_desc">Spremeni tempo in višino tona skladbe</string>

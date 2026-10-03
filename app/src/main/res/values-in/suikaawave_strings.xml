@@ -19,7 +19,7 @@
     <string name="liked">Disukai</string>
     <string name="offline">Diunduh</string>
     <string name="sync_playlist">Sinkronkan playlist</string>
-    <string name="allows_for_sync_witch_youtube">CATATAN: Ini memungkinkan sinkronisasi dengan YouTube Music dan TIDAK DAPAT diubah lagi</string>
+    <string name="allows_for_sync_witch_youtube">CATATAN: Ini memungkinkan sinkronisasi dengan Suika Wave dan TIDAK DAPAT diubah lagi</string>
     <string name="share_lyrics">Bagikan lirik</string>
     <string name="share_as_text">Bagikan sebagai teks</string>
     <string name="share_as_image">Bagikan sebagai gambar</string>
@@ -120,7 +120,7 @@
     <string name="edit_playlist_cover">Ubah sampul playlist</string>
     <string name="hide_player_thumbnail">Sembunyikan thumbnail pemutar</string>
     <string name="hide_player_thumbnail_desc">Ganti gambar album dengan logo aplikasi di pemutar</string>
-    <string name="edit_playlist_cover_note">CATATAN: Akun Anda harus ditautkan ke nomor telepon dan diverifikasi di YouTube Music untuk mengubah sampul playlist</string>
+    <string name="edit_playlist_cover_note">CATATAN: Akun Anda harus ditautkan ke nomor telepon dan diverifikasi di Suika Wave untuk mengubah sampul playlist</string>
     <string name="enable_authentication">Aktifkan autentikasi</string>
     <string name="settings_section_privacy">Privasi &amp; Keamanan</string>
     <string name="settings_section_storage">Penyimpanan &amp; Data</string>
@@ -165,7 +165,7 @@
     <string name="download_in_progress_desc">Unduhan sedang berlangsung</string>
     <string name="share_playlist_desc">Bagikan playlist ini kepada orang lain</string>
     <string name="delete_playlist_desc">Hapus playlist ini secara permanen</string>
-    <string name="sync_playlist_desc">Sinkronkan playlist ini dengan YouTube Music</string>
+    <string name="sync_playlist_desc">Sinkronkan playlist ini dengan Suika Wave</string>
     <string name="primary_color_style">Warna primer</string>
     <string name="tertiary_color_style">Warna tersier</string>
     <string name="enable_better_lyrics">Aktifkan penyedia lirik Better Lyrics</string>
@@ -241,7 +241,7 @@
     <string name="add_to_library_desc">Simpan ke pustaka Anda</string>
     <string name="download_desc">Unduh untuk pemutaran offline</string>
     <string name="add_to_playlist_desc">Tambahkan ke playlist</string>
-    <string name="refetch_desc">Segarkan metadata dari YouTube Music</string>
+    <string name="refetch_desc">Segarkan metadata dari Suika Wave</string>
     <string name="lyrics_glow_effect">Aktifkan efek cahaya lirik</string>
     <string name="lyrics_glow_effect_desc">Menambahkan animasi bercahaya dan efek pantulan pada baris lirik yang aktif</string>
     <string name="shuffle_playlist_first">Acak playlist atau album terlebih dahulu</string>
@@ -511,7 +511,7 @@
     <string name="density_restart_message">Perubahan kepadatan tampilan akan berlaku setelah aplikasi di-restart. Restart sekarang?</string>
     <string name="enable_lrclib_desc">Database lirik sinkron dari komunitas</string>
     <string name="enable_kugou_desc">Mengambil lirik dari KuGou, platform musik populer asal Cina</string>
-    <string name="youtube_music_lyrics_note">CATATAN: Lirik dari YouTube Music akan otomatis ditampilkan jika lirik lain tidak tersedia. Biasanya lirik tidak sinkron</string>
+    <string name="youtube_music_lyrics_note">CATATAN: Lirik dari Suika Wave akan otomatis ditampilkan jika lirik lain tidak tersedia. Biasanya lirik tidak sinkron</string>
     <string name="enable_lyricsplus">Aktifkan LyricsPlus</string>
     <string name="enable_lyricsplus_desc">Lirik sinkron dari berbagai sumber</string>
     <string name="lyrics_provider_selection">Pilih Penyedia</string>
@@ -520,7 +520,7 @@
     <string name="lyrics_provider_priority_desc">Seret untuk mengurutkan ulang penyedia berdasarkan preferensi. Posisi lebih tinggi berarti prioritas lebih tinggi</string>
     <string name="changelog">Catatan Perubahan</string>
     <string name="changelog_empty">Tidak ada catatan perubahan</string>
-    <string name="github_releases_url">https://github.com/MetrolistGroup/Metrolist/releases</string>
+    <string name="github_releases_url">https://github.com/SuikaRyp/SuikaaWave/releases</string>
     <string name="list_bullet">•</string>
     <string name="view_on_github">Lihat di GitHub</string>
     <string name="current_version">Versi saat ini</string>
@@ -599,7 +599,7 @@
     <string name="credits_license_desc">Perangkat lunak gratis dan open-source. Anda boleh menggunakan, mempelajari, berbagi, dan meningkatkannya</string>
     <string name="credits_discord">Server Discord</string>
     <string name="credits_telegram">Saluran Telegram</string>
-    <string name="credits_view_repo">Lihat repositori</string>
+    <string name="credits_view_repo">Account Github Dev</string>
     <string name="buy_mo_a_coffee">Belikan saya kopi!</string>
     <string name="community_and_info">Komunitas &amp; Info</string>
     <string name="suikaawave">SUIKAAWAVE</string>
@@ -744,7 +744,7 @@
     <string name="android_auto_visible_sections">Bagian yang terlihat</string>
     <string name="android_auto_reorder_hint">Ketuk bagian untuk mengaktifkan atau menonaktifkannya.\nTekan lama gagang seret untuk mengurutkan ulang. Bagian pertama akan ditampilkan secara default</string>
     <string name="android_auto_youtube_playlists">Tampilkan playlist yang disarankan YouTube</string>
-    <string name="android_auto_youtube_playlists_desc">Tampilkan playlist yang direkomendasikan YouTube Music di bagian playlist saat menjelajah dengan Android Auto</string>
+    <string name="android_auto_youtube_playlists_desc">Tampilkan playlist yang direkomendasikan Suika Wave di bagian playlist saat menjelajah dengan Android Auto</string>
     <string name="android_auto_target_playlist">Tujuan tambah cepat</string>
     <string name="android_auto_target_playlist_auto">Belum diatur</string>
     <string name="android_auto_target_playlist_not_set">Tidak ada playlist yang dipilih. Pilih salah satu di pengaturan Android Auto</string>
@@ -842,7 +842,7 @@
     <string name="android_auto_search_local_songs_limit_desc">Batasi jumlah lagu lokal yang ditampilkan dalam hasil pencarian. Disarankan untuk tidak mengaturnya menjadi tanpa batas agar aplikasi tidak mengalami crash karena kehabisan memori.</string>
     <string name="playlist_unavailable">Playlist tidak tersedia</string>
     <string name="login_failed_with_error">Gagal masuk: %1$s</string>
-    <string name="authentication_data_extraction_failed">Tidak dapat membaca sesi Youtube Music. Silakan coba lagi.</string>
+    <string name="authentication_data_extraction_failed">Tidak dapat membaca sesi Suika Wave. Silakan coba lagi.</string>
     <string name="switch_youtube_channel">Ganti Youtube channel</string>
     <string name="choose_youtube_channel">Pilih channel Youtube</string>
     <string name="choose_youtube_channel_description">Akun Google ini memiliki beberapa channel. Pilih channel yang ingin Anda gunakan.</string>

@@ -13,7 +13,7 @@
     <string name="my_top">Мой топ</string>
     <string name="sync_playlist">Сінхранізаваць плей-ліст</string>
     <string name="sync_disabled">Сінхранізацыя адключана</string>
-    <string name="allows_for_sync_witch_youtube">ЗАЎВАГА: Гэта опцыя ўключае сінхранізацыю з YouTube Music. Гэта НЕЛЬГА змяніць пазней.</string>
+    <string name="allows_for_sync_witch_youtube">ЗАЎВАГА: Гэта опцыя ўключае сінхранізацыю з Suika Wave. Гэта НЕЛЬГА змяніць пазней.</string>
     <string name="generating_image">Генерацыя відарыса…</string>
     <string name="please_wait">Пачакайце, калі ласка</string>
     <string name="cancel">Скасаваць</string>
@@ -49,7 +49,7 @@
     <string name="download_in_progress_desc">Ідзе спампаванне</string>
     <string name="share_playlist_desc">Падзяліцца гэтым плэйлістом з другімі</string>
     <string name="delete_playlist_desc">Выдаліць гэты плэйліст назаўсёды</string>
-    <string name="sync_playlist_desc">Сінхранізіраваць гэты плэйліст з YouTube Music</string>
+    <string name="sync_playlist_desc">Сінхранізіраваць гэты плэйліст з Suika Wave</string>
     <string name="copy_link">Скапіраваць спасылку</string>
     <string name="select">Выбраць усё</string>
     <string name="link_copied">Спасылка скапіравана ў буфер абмену</string>
@@ -129,7 +129,7 @@
     <string name="lyrics_text_size">Памер тэксту песні</string>
     <string name="lyrics_line_spacing">Міжрадковы інтэрвал тэксту</string>
     <string name="enable_kugou_desc">Загружае тэксты песень з KuGou, папулярнай кітайскай музычнай платформы</string>
-    <string name="youtube_music_lyrics_note">"УВАГА: Тэксты з YouTube Music будуць паказвацца аўтаматычна, калі няма іншых крыніц.  Звычайна яны не сінхранізаваныя"</string>
+    <string name="youtube_music_lyrics_note">"УВАГА: Тэксты з Suika Wave будуць паказвацца аўтаматычна, калі няма іншых крыніц.  Звычайна яны не сінхранізаваныя"</string>
     <string name="enable_better_lyrics">Уключыць Better Lyrics</string>
     <string name="enable_better_lyrics_desc">Сінхранізацыя тэксту па складах для любой песні, ідэальна для караоке</string>
     <string name="enable_paxsenix">Уключыць Paxsenix</string>
@@ -168,7 +168,7 @@
     <string name="sort_ascending">Сартаваць па ўзрастанні</string>
     <string name="sort_descending">Сартаваць па змяншэнні</string>
     <string name="edit_playlist_cover">Рэдагаваць вокладку плэйліста</string>
-    <string name="edit_playlist_cover_note">УВАГА: Для змены вокладкі плэйліста акаўнт павінен быць прывязаны да нумара тэлефона і пацверджаны ў YouTube Music</string>
+    <string name="edit_playlist_cover_note">УВАГА: Для змены вокладкі плэйліста акаўнт павінен быць прывязаны да нумара тэлефона і пацверджаны ў Suika Wave</string>
     <string name="edit_playlist_cover_note_wait">Пасля выбару малюнка пачакайце крыху, пакуль новая вокладка з\'явіцца ў вашым плэйлісце</string>
     <string name="choose_from_library">Выбраць з бібліятэкі</string>
     <string name="general">Агульнае</string>
@@ -220,7 +220,7 @@
     <string name="release_notes">Заўвагі да выпуску</string>
     <string name="changelog">Спіс змен</string>
     <string name="changelog_empty">Спіс змен недаступны</string>
-    <string name="github_releases_url">https://github.com/MetrolistGroup/Metrolist/releases</string>
+    <string name="github_releases_url">https://github.com/SuikaRyp/SuikaaWave/releases</string>
     <string name="list_bullet">•</string>
     <string name="view_on_github">Адкрыць на GitHub</string>
     <string name="current_version">Бягучая версія</string>

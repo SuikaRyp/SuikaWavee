@@ -67,7 +67,7 @@ object OpenRouterStreamingService {
                         .apply {
                             if (apiKey.isNotBlank()) addHeader("Authorization", "Bearer ${apiKey.trim()}")
                         }.addHeader("Content-Type", "application/json")
-                        .addHeader("HTTP-Referer", "https://github.com/MetrolistGroup/Metrolist")
+                        .addHeader("HTTP-Referer", "https://github.com/SuikaRyp")
                         .addHeader("X-Title", "SuikaaWave")
                         .post(body.toString().toRequestBody(jsonMediaType))
                         .build()

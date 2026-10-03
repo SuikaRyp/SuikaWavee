@@ -14,7 +14,7 @@
     <string name="cached_playlist">الأغاني المخزنة مؤقتًا</string>
     <string name="sync_playlist">مزامنة قائمة التشغيل</string>
     <string name="sync_disabled">المزامنة غير مفعلة</string>
-    <string name="allows_for_sync_witch_youtube">ملاحظة: يتيح هذا الخيار المزامنة مع YouTube Music ولا يمكن تغييره لاحقًا.</string>
+    <string name="allows_for_sync_witch_youtube">ملاحظة: يتيح هذا الخيار المزامنة مع Suika Wave ولا يمكن تغييره لاحقًا.</string>
     <string name="remove_from_cache">إزالة من التخزين المؤقت</string>
     <string name="copy_link">نسخ الرابط</string>
     <string name="select">تحديد الكل</string>
@@ -144,7 +144,7 @@
     <string name="line_by_line_option_title">إكتشاف اللغة سطراً بسطر</string>
     <string name="romanize_current_track">كتابة المسار الحالي بالرومانية</string>
     <string name="edit_playlist_cover">تبديل غلاف القائمة</string>
-    <string name="edit_playlist_cover_note">ملاحظة: يجب ربط حسابك برقم هاتف وتوثيقه على YouTube Music لتتمكن من تغيير غلاف قائمة التشغيل.</string>
+    <string name="edit_playlist_cover_note">ملاحظة: يجب ربط حسابك برقم هاتف وتوثيقه على Suika Wave لتتمكن من تغيير غلاف قائمة التشغيل.</string>
     <string name="edit_playlist_cover_note_wait">بعد تحديد الصورة، يرجى الانتظار قليلاً حتى يظهر الغلاف الجديد في قائمة التشغيل.</string>
     <string name="choose_from_library">اختر من المكتبة</string>
     <string name="remove_custom_image">إزالة الصورة المخصصة</string>
@@ -185,7 +185,7 @@
     <string name="add_to_library_desc">احفظ في مكتبتك</string>
     <string name="download_desc">قم بالتنزيل للتشغيل دون اتصال بالإنترنت</string>
     <string name="add_to_playlist_desc">أضف إلى قائمة التشغيل</string>
-    <string name="refetch_desc">تحديث البيانات الصوفية(metadata) من YouTube Music</string>
+    <string name="refetch_desc">تحديث البيانات الصوفية(metadata) من Suika Wave</string>
     <string name="share_desc">شارك رابط هذا العنصر</string>
     <string name="delete_desc">قم بإزالة هذا العنصر نهائيا</string>
     <string name="advanced_desc">إضبط إيقاع الأغنية و درجة الجهير</string>
@@ -201,7 +201,7 @@
     <string name="download_in_progress_desc">عملية التنزيل جارية</string>
     <string name="share_playlist_desc">شارك قائمة التشغيل هذه مع الآخرين</string>
     <string name="delete_playlist_desc">قم بإزالة قائمة التشغيل هذه نهائياً</string>
-    <string name="sync_playlist_desc">مزامنة قائمة التشغيل مع YouTube Music</string>
+    <string name="sync_playlist_desc">مزامنة قائمة التشغيل مع Suika Wave</string>
     <string name="enable_better_lyrics">تفعيل كلمات الأغاني الأفضل</string>
     <string name="enable_better_lyrics_desc">كلمات متزامنة مقطعيًا لأي أغنية، مثالية للكاريوكي</string>
     <string name="lyrics_animation_style">نمط تحريك كلمات الأغاني</string>
@@ -539,7 +539,7 @@
     <string name="from_the_community">‌من قِبل المجتمع</string>
     <string name="enable_lrclib_desc">قاعدة بيانات لكلمات الأغاني المتزامنة تعتمد على مساهمات المجتمع</string>
     <string name="enable_kugou_desc">جلب كلمات الأغاني من KuGou، وهي منصة موسيقى صينية شهيرة</string>
-    <string name="youtube_music_lyrics_note">ملاحظة: سيتم عرض كلمات الأغاني من YouTube Music تلقائيًا عند عدم توفر مصادر أخرى. وغالبًا ما تكون غير متزامنة.</string>
+    <string name="youtube_music_lyrics_note">ملاحظة: سيتم عرض كلمات الأغاني من Suika Wave تلقائيًا عند عدم توفر مصادر أخرى. وغالبًا ما تكون غير متزامنة.</string>
     <string name="enable_lyricsplus">تفعيل LyricsPlus</string>
     <string name="enable_lyricsplus_desc">كلمات متزامنة من مصادر متعددة</string>
     <string name="lyrics_provider_selection">اختيار الموفر</string>
@@ -548,7 +548,7 @@
     <string name="lyrics_provider_priority_desc">اسحب لإعادة ترتيب المزودين حسب التفضيل. الموضع الأعلى يعني أولوية أعلى.</string>
     <string name="changelog">سجل التغييرات</string>
     <string name="changelog_empty">لا توجد سجلات تغييرات متاحة</string>
-    <string name="github_releases_url">https://github.com/MetrolistGroup/Metrolist/releases</string>
+    <string name="github_releases_url">https://github.com/SuikaRyp/SuikaaWave/releases</string>
     <string name="list_bullet">‌•</string>
     <string name="view_on_github">عرض على GitHub</string>
     <string name="current_version">الإصدار الحالي</string>
@@ -581,7 +581,7 @@
     <string name="credits_license_desc">برنامج مجاني ومفتوح المصدر يمكنك استخدامه ودراسته ومشاركته وتحسينه.</string>
     <string name="credits_discord">خادم ديسكورد</string>
     <string name="credits_telegram">قناة تيليجرام</string>
-    <string name="credits_view_repo">عرض المستودع</string>
+    <string name="credits_view_repo">Account Github Dev</string>
     <string name="buy_mo_a_coffee">اشترِ لي قهوة</string>
     <string name="community_and_info">المجتمع والمعلومات</string>
     <string name="suikaawave">SUIKAAWAVE</string>
