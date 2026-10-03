@@ -25,7 +25,7 @@ import coil3.request.CachePolicy
 import coil3.request.ImageRequest
 import com.suikaawave.innertube.YouTube
 import com.suikaawave.innertube.models.SongItem
-import com.suikaawave.innertubex.extraction.ContentHints
+import com.metrolist.innertubex.extraction.ContentHints
 import com.suikaawave.music.constants.AudioQuality
 import com.suikaawave.music.constants.AudioQualityKey
 import com.suikaawave.music.db.MusicDatabase

@@ -68,8 +68,8 @@ import com.suikaawave.innertube.pages.SearchResult
 import com.suikaawave.innertube.pages.SearchSuggestionPage
 import com.suikaawave.innertube.pages.SearchSummary
 import com.suikaawave.innertube.pages.SearchSummaryPage
-import com.suikaawave.innertubex.models.YouTubeClient.Companion.WEB
-import com.suikaawave.innertubex.models.YouTubeClient.Companion.WEB_REMIX
+import com.metrolist.innertubex.models.YouTubeClient.Companion.WEB
+import com.metrolist.innertubex.models.YouTubeClient.Companion.WEB_REMIX
 import io.ktor.client.call.body
 import io.ktor.client.statement.bodyAsText
 import kotlinx.coroutines.async

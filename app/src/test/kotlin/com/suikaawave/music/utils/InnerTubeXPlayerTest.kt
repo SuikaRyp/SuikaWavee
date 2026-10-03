@@ -1,7 +1,7 @@
 package com.suikaawave.music.utils
 
-import com.suikaawave.innertubex.extraction.PlayerConfig
-import com.suikaawave.innertubex.extraction.YtConfigParser
+import com.metrolist.innertubex.extraction.PlayerConfig
+import com.metrolist.innertubex.extraction.YtConfigParser
 import kotlinx.coroutines.runBlocking
 import org.junit.After
 import org.junit.Assert.assertEquals

@@ -1,3 +1,3 @@
 package com.suikaawave.innertube.models
 
-typealias YouTubeLocale = com.suikaawave.innertubex.models.YouTubeLocale
+typealias YouTubeLocale = com.metrolist.innertubex.models.YouTubeLocale

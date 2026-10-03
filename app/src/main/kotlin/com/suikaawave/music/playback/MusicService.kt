@@ -96,7 +96,7 @@ import com.google.common.util.concurrent.MoreExecutors
 import com.suikaawave.innertube.YouTube
 import com.suikaawave.innertube.models.SongItem
 import com.suikaawave.innertube.models.WatchEndpoint
-import com.suikaawave.innertubex.extraction.ContentHints
+import com.metrolist.innertubex.extraction.ContentHints
 import com.suikaawave.lastfm.LastFM
 import com.suikaawave.music.MainActivity
 import com.suikaawave.music.R

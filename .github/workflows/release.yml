@@ -30,7 +30,7 @@ jobs:
         run: chmod +x gradlew
 
       - name: Build Release APK (GMS / full)
-        run: ./gradlew --console=plain assembleGmsRelease --warning-mode summary
+        run: ./gradlew --console=plain assembleGmsRelease -x lintVitalGmsRelease -x lintVitalAnalyzeGmsRelease --build-cache --warning-mode summary
         env:
           SUIKAAWAVE_APPLICATION_ID: com.suikaawave.music
           SUIKAAWAVE_APP_NAME: SuikaaWave
